@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #22",
-  "description": "Florentine Brainrot #22 is a nokia basilica single-panel relic built around Botticelli and Forum Signature Baroque. Tarocchi Fiorentini assigns Giustizia, used here as the witness card. Botticelli left a receipt where the Proof-of-Work Relic Auction should have been. The notary marks it suspicious but lets it hang. Serial BOTT-22 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks MEDICI at Σ 258.",
+  "description": "Florentine Brainrot #22 is a nokia basilica single-panel relic built around Botticelli and Forum Signature Baroque. Tarocchi Fiorentini assigns Giustizia, used here as the witness card. Botticelli left a receipt where the Proof-of-Work Relic Auction should have been. The notary marks it suspicious but lets it hang. The generated insert — a marble hand emerging from a phone screen with a seed phrase receipt — acts as the modern clue; Gematria marks MEDICI at Σ 258.",
   "image": "0022.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Giustizia"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-22"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "MEDICI"
     },
@@ -58,5 +50,91 @@
       "value": 77,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #22",
+      "main_caption": "Botticelli: 'I survived patrons. I can survive onboarding.'. Giustizia is the witness here: Botticelli left a receipt where the Proof-of-Work Relic Auction should have been, and the notary marks it suspicious but lets it hang.",
+      "history_now_bridge": "Botticelli carries a convent recipe book with angelic checksum errors into a rent-free relic saved in browser history; Botticelli left a receipt where the Proof-of-Work Relic Auction should have been; the notary marks it suspicious but lets it hang.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: hold sorrow gently for longer lashes under Bombardiro witness lighting. Court painters pretend not to notice, logged before the patron blinked.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #22 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-22",
+        "SUPPLY 1401 // PALETTE nokia basilica // OUTER EDGE ASCII UNDERLAYER // GLYPH GOBLIN"
+      ],
+      "tarocchi_card_body": "Giustizia",
+      "generated_insert_label": "a marble hand emerging from a phone screen with a seed phrase receipt",
+      "background_chatter_samples": [
+        "mirror court minutes: Giustizia witness line",
+        "Giustizia note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Giustizia keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Giustizia back to the relic",
+        "quiet note: mirror court minutes stays open",
+        "FORUM SIGNATURE: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "COLD OPEN / NO-CAP",
+      "palette": "nokia basilica",
+      "style_tribe": "Forum Signature Baroque",
+      "insert_mode": "C64",
+      "generated_insert": "a marble hand emerging from a phone screen with a seed phrase receipt",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Giustizia",
+        "category": "virtù",
+        "motif": "justice",
+        "roman": "VIII",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "MEDICI",
+        "gematria_sum": 258,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 81,
+        "brainrot_index": 77
+      },
+      "composition_read": "Botticelli anchors the historical source. Giustizia supplies the witness logic. a marble hand emerging from a phone screen with a seed phrase receipt acts as the modern meme-object. The nokia basilica palette and Forum Signature Baroque styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in mirror court minutes. The old-world clue is a convent recipe book with angelic checksum errors; the modern-world echo is a rent-free relic saved in browser history. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Giustizia card is not decorative; it is the witness that tells you how to read the room. Botticelli left a receipt where the Proof-of-Work Relic Auction should have been. The notary marks it suspicious but lets it hang. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "sus",
+          "translation_for_normal_plebs": "suspicious; evidence that the relic, receipt, or miracle is not behaving normally"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "MIRROR COURT MINUTES",
+      "old_node": "a convent recipe book with angelic checksum errors",
+      "modern_node": "a rent-free relic saved in browser history",
+      "evidence": "Botticelli left a receipt where the Proof-of-Work Relic Auction should have been",
+      "verdict": "the notary marks it suspicious but lets it hang",
+      "reply": "pigeon node: seal, relic, card, same argument"
+    },
+    "render_context": {
+      "source_token_id": 22,
+      "source_panel_index": 4,
+      "style_capsule_id": "2D-0022-48e73f92"
+    }
+  }
 }

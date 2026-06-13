@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #12",
-  "description": "Florentine Brainrot #12 is a papal terminal single-panel relic built around Medici and Flash Game Guildhall. Tarocchi Fiorentini assigns Sei di Bastoni, used here as the witness card. Medici's codon strip repeats like a clerk trying not to laugh. Cosimo approves the lighting and ignores the crime. Serial MEDI-12 carries codon marker ATGGAAGATATATGTATT; Gematria marks BRAINROT at Σ 582.",
+  "description": "Florentine Brainrot #12 is a papal terminal single-panel relic built around Medici and Flash Game Guildhall. Tarocchi Fiorentini assigns Sei di Bastoni, used here as the witness card. Medici's codon strip repeats like a clerk trying not to laugh. Cosimo approves the lighting and ignores the crime. The generated insert — a mutant laurel wreath made of browser tabs — acts as the modern clue; Gematria marks BRAINROT at Σ 582.",
   "image": "0012.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Sei di Bastoni"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGGAAGATATATGTATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MEDI-12"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "BRAINROT"
     },
@@ -58,5 +50,103 @@
       "value": 54,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #12",
+      "main_caption": "The pixels remember what the marketplace forgot. The old route runs a Malachim margin note under a Solomonic seal into a zodiac-risk dashboard for patron liquidity; Cosimo approves the lighting and ignores the crime.",
+      "history_now_bridge": "Sei di Bastoni file: Medici's codon strip repeats like a clerk trying not to laugh; modern echo: a zodiac-risk dashboard for patron liquidity; Cosimo approves the lighting and ignores the crime.",
+      "period_looksmaxx_plaque": "MEDICI PATRONMAXX MIRROR NOTE: encode the jawline as ATG triplets after the relic gets Fanum taxed. What the sigma becomes a school, logged before the patron blinked.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #12 // BASE MEDICI // MARKER ATGGAAGATATATGTATT // SERIAL MEDI-12",
+        "SUPPLY 1401 // PALETTE papal terminal // OUTER EDGE ASCII UNDERLAYER // CODEX RIZZ"
+      ],
+      "tarocchi_card_body": "Sei di Bastoni",
+      "generated_insert_label": "a mutant laurel wreath made of browser tabs",
+      "background_chatter_samples": [
+        "medici receipt drama: Sei di Bastoni witness line",
+        "Sei di Bastoni note: Medici keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Medici is the custody problem",
+        "card margin: Sei di Bastoni keeps the room honest",
+        "archive aside: evidence filed under Medici",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Medici",
+        "margin arrow: follow Sei di Bastoni back to the relic",
+        "quiet note: medici receipt drama stays open",
+        "FLASH GAME GUILDHALL: did the patron just subtweet the halo?",
+        "workshop chat // MEDICI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Medici",
+      "panel_role": "NO-CAP PROPHECY",
+      "palette": "papal terminal",
+      "style_tribe": "Flash Game Guildhall",
+      "insert_mode": "SNES",
+      "generated_insert": "a mutant laurel wreath made of browser tabs",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Sei di Bastoni",
+        "category": "seme",
+        "motif": "staff_pip",
+        "roman": null,
+        "suit": "Bastoni",
+        "rank": "Sei",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "BRAINROT",
+        "gematria_sum": 582,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 75,
+        "brainrot_index": 54
+      },
+      "composition_read": "Medici anchors the historical source. Sei di Bastoni supplies the witness logic. a mutant laurel wreath made of browser tabs acts as the modern meme-object. The papal terminal palette and Flash Game Guildhall styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Medici is treated as evidence in medici receipt drama. The old-world clue is a Malachim margin note under a Solomonic seal; the modern-world echo is a zodiac-risk dashboard for patron liquidity. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Sei di Bastoni card is not decorative; it is the witness that tells you how to read the room. Medici's codon strip repeats like a clerk trying not to laugh. Cosimo approves the lighting and ignores the crime. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "fanum tax",
+          "translation_for_normal_plebs": "someone taking a cut; mapped to patronage fees, guild dues, and marketplace rake"
+        },
+        {
+          "term": "rizz",
+          "translation_for_normal_plebs": "charisma or persuasive charm; patronage influence rephrased as social magic"
+        },
+        {
+          "term": "sigma",
+          "translation_for_normal_plebs": "self-mythologized lone-wolf status; a patron, saint, or relic trying too hard to seem untouchable"
+        },
+        {
+          "term": "what the sigma",
+          "translation_for_normal_plebs": "confused disbelief in brainrot dialect; a marginalia scream when the symbols overperform"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "MEDICI RECEIPT DRAMA",
+      "old_node": "a Malachim margin note under a Solomonic seal",
+      "modern_node": "a zodiac-risk dashboard for patron liquidity",
+      "evidence": "Medici's codon strip repeats like a clerk trying not to laugh",
+      "verdict": "Cosimo approves the lighting and ignores the crime",
+      "reply": "workshop reply: this was not a random sticker"
+    },
+    "render_context": {
+      "source_token_id": 12,
+      "source_panel_index": 6,
+      "style_capsule_id": "2D-0012-3629cb02"
+    }
+  }
 }

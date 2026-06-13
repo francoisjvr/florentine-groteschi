@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #24",
-  "description": "Florentine Brainrot #24 is a blue screen reliquary single-panel relic built around Botticelli and Printer-Jam Illuminated Manuscript. Tarocchi Fiorentini assigns Acqua, used here as the witness card. The Printer-Jam Illuminated Manuscript layout makes the old scandal look newly clickable. The small evidence marks become witnesses, not gimmicks. Serial BOTT-24 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks OHIO at Σ 282.",
+  "description": "Florentine Brainrot #24 is a blue screen reliquary single-panel relic built around Botticelli and Printer-Jam Illuminated Manuscript. Tarocchi Fiorentini assigns Acqua, used here as the witness card. The Printer-Jam Illuminated Manuscript layout makes the old scandal look newly clickable. The small evidence marks become witnesses, not gimmicks. The generated insert — a floor-price crown made of unsold listing cards — acts as the modern clue; Gematria marks OHIO at Σ 282.",
   "image": "0024.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Acqua"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-24"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "OHIO"
     },
@@ -58,5 +50,103 @@
       "value": 92,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #24",
+      "main_caption": "Botticelli audits the chain with a brush, a ledger, and zero patience. Acqua is the witness here: the Printer-Jam Illuminated Manuscript layout makes the old scandal look newly clickable, and the small evidence marks become witnesses, not gimmicks.",
+      "history_now_bridge": "Acqua file: the Printer-Jam Illuminated Manuscript layout makes the old scandal look newly clickable; modern echo: a browser history export from the Medici archive; the small evidence marks become witnesses, not gimmicks.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: sleep on a profile sketch while the patron loses rizz. The guild calls it goated restraint, kept short for plaque survival.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #24 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-24",
+        "SUPPLY 1401 // PALETTE blue screen reliquary // OUTER EDGE ASCII UNDERLAYER // DELULU ARCHIVE MODE"
+      ],
+      "tarocchi_card_body": "Acqua",
+      "generated_insert_label": "a floor-price crown made of unsold listing cards",
+      "background_chatter_samples": [
+        "laurenziana incident: Acqua witness line",
+        "Acqua note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Acqua keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Acqua back to the relic",
+        "quiet note: laurenziana incident stays open",
+        "PRINTER-JAM: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "ITALIAN BRAINROT VISITATION",
+      "palette": "blue screen reliquary",
+      "style_tribe": "Printer-Jam Illuminated Manuscript",
+      "insert_mode": "SNES",
+      "generated_insert": "a floor-price crown made of unsold listing cards",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Acqua",
+        "category": "elemento",
+        "motif": "water",
+        "roman": "XXI",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "OHIO",
+        "gematria_sum": 282,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 67,
+        "brainrot_index": 92
+      },
+      "composition_read": "Botticelli anchors the historical source. Acqua supplies the witness logic. a floor-price crown made of unsold listing cards acts as the modern meme-object. The blue screen reliquary palette and Printer-Jam Illuminated Manuscript styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in laurenziana incident. The old-world clue is a Laurenziana catalogue slip with suspicious dust; the modern-world echo is a browser history export from the Medici archive. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Acqua card is not decorative; it is the witness that tells you how to read the room. The Printer-Jam Illuminated Manuscript layout makes the old scandal look newly clickable. The small evidence marks become witnesses, not gimmicks. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "delulu",
+          "translation_for_normal_plebs": "delusional but committed; usually a patron or collector inventing meaning too confidently"
+        },
+        {
+          "term": "goated",
+          "translation_for_normal_plebs": "treated as the greatest of all time, sometimes for stupid reasons"
+        },
+        {
+          "term": "rizz",
+          "translation_for_normal_plebs": "charisma or persuasive charm; patronage influence rephrased as social magic"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "LAURENZIANA INCIDENT",
+      "old_node": "a Laurenziana catalogue slip with suspicious dust",
+      "modern_node": "a browser history export from the Medici archive",
+      "evidence": "the Printer-Jam Illuminated Manuscript layout makes the old scandal look newly clickable",
+      "verdict": "the small evidence marks become witnesses, not gimmicks",
+      "reply": "small hand: the card saw it first"
+    },
+    "render_context": {
+      "source_token_id": 24,
+      "source_panel_index": 6,
+      "style_capsule_id": "2D-0024-54947e9a"
+    }
+  }
 }

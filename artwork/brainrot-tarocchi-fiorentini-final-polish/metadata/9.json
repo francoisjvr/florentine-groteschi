@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #9",
-  "description": "Florentine Brainrot #9 is a windows bruise single-panel relic built around Botticelli and Low-Poly Renaissance Mallcore. Tarocchi Fiorentini assigns Aria, used here as the witness card. The Aria omen matches a stain in the metaverse museum gift shop. The notary marks it suspicious but lets it hang. Serial BOTT-9 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks SIDEQUEST at Σ 714.",
+  "description": "Florentine Brainrot #9 is a windows bruise single-panel relic built around Botticelli and Low-Poly Renaissance Mallcore. Tarocchi Fiorentini assigns Aria, used here as the witness card. The Aria omen matches a stain in the metaverse museum gift shop. The notary marks it suspicious but lets it hang. The generated insert — a blockchain reliquary glowing inside a busted vending machine — acts as the modern clue; Gematria marks SIDEQUEST at Σ 714.",
   "image": "0009.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Aria"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-9"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "SIDEQUEST"
     },
@@ -62,5 +54,99 @@
       "value": 93,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #9",
+      "main_caption": "The unadorned channel screams in perfect Gameboy green. The old route runs a laurel-wreath diagram from an overfunded academy into a livestream chat asking if the saint is real; the notary marks it suspicious but lets it hang.",
+      "history_now_bridge": "a laurel-wreath diagram from an overfunded academy is not decoration here; it turns into a livestream chat asking if the saint is real, and the notary marks it suspicious but lets it hang.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: turn the under-eye bags into zodiac houses before guild inspection. The guild records sigma behavior, noted in the beauty ledger.",
+      "qr_payload_if_drawn": "TAROCCHI NOTE 2.02: Aria enters the ledger; the notary marks it suspicious but lets it hang.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #9 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-9",
+        "SUPPLY 1401 // PALETTE windows bruise // OUTER EDGE ASCII UNDERLAYER // ORACLE POSTING"
+      ],
+      "tarocchi_card_body": "Aria",
+      "generated_insert_label": "a blockchain reliquary glowing inside a busted vending machine",
+      "background_chatter_samples": [
+        "medici receipt drama: Aria witness line",
+        "Aria note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Aria keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Aria back to the relic",
+        "quiet note: medici receipt drama stays open",
+        "LOW-POLY RENAISSANCE: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "TOUCH GRASS DECREE",
+      "palette": "windows bruise",
+      "style_tribe": "Low-Poly Renaissance Mallcore",
+      "insert_mode": "PICO-8",
+      "generated_insert": "a blockchain reliquary glowing inside a busted vending machine",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Aria",
+        "category": "elemento",
+        "motif": "air",
+        "roman": "XXIII",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "SIDEQUEST",
+        "gematria_sum": 714,
+        "oracle": "Visible",
+        "chaos_dial": 50,
+        "brainrot_index": 93
+      },
+      "composition_read": "Botticelli anchors the historical source. Aria supplies the witness logic. a blockchain reliquary glowing inside a busted vending machine acts as the modern meme-object. The windows bruise palette and Low-Poly Renaissance Mallcore styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in medici receipt drama. The old-world clue is a laurel-wreath diagram from an overfunded academy; the modern-world echo is a livestream chat asking if the saint is real. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Aria card is not decorative; it is the witness that tells you how to read the room. The Aria omen matches a stain in the metaverse museum gift shop. The notary marks it suspicious but lets it hang. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ratio",
+          "translation_for_normal_plebs": "publicly losing the argument by crowd reaction; old patronage drama as comment metrics"
+        },
+        {
+          "term": "sigma",
+          "translation_for_normal_plebs": "self-mythologized lone-wolf status; a patron, saint, or relic trying too hard to seem untouchable"
+        },
+        {
+          "term": "sus",
+          "translation_for_normal_plebs": "suspicious; evidence that the relic, receipt, or miracle is not behaving normally"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "MEDICI RECEIPT DRAMA",
+      "old_node": "a laurel-wreath diagram from an overfunded academy",
+      "modern_node": "a livestream chat asking if the saint is real",
+      "evidence": "the Aria omen matches a stain in the metaverse museum gift shop",
+      "verdict": "the notary marks it suspicious but lets it hang",
+      "reply": "desk note: follow the red string before vespers"
+    },
+    "render_context": {
+      "source_token_id": 9,
+      "source_panel_index": 3,
+      "style_capsule_id": "2D-0009-a115d8fc"
+    }
+  }
 }

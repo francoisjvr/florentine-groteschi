@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #13",
-  "description": "Florentine Brainrot #13 is a glitch candy rot single-panel relic built around Botticelli and Webring Validator Shrine. Tarocchi Fiorentini assigns Sette di Coppe, used here as the witness card. A witness line runs from a Solomonic seal copied in Florentine margin hand to a side-quest tracker for sacred receipts without pretending it is holy. The groupchat says no cap and immediately screenshots the evidence. Serial BOTT-13 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks RATIO at Σ 378.",
+  "description": "Florentine Brainrot #13 is a glitch candy rot single-panel relic built around Botticelli and Webring Validator Shrine. Tarocchi Fiorentini assigns Sette di Coppe, used here as the witness card. A witness line runs from a Solomonic seal copied in Florentine margin hand to a side-quest tracker for sacred receipts without pretending it is holy. The groupchat says no cap and immediately screenshots the evidence. The generated insert — a pixelated espresso cup that steams private keys — acts as the modern clue; Gematria marks RATIO at Σ 378.",
   "image": "0013.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Sette di Coppe"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-13"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "RATIO"
     },
@@ -62,5 +54,99 @@
       "value": 84,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #13",
+      "main_caption": "Every pop-up looks like a tiny heresy trial. The panel reads like workshop bug report: a witness line runs from a Solomonic seal copied in Florentine margin hand to a side-quest tracker for sacred receipts without pretending it is holy; the groupchat says no cap and immediately screenshots the evidence.",
+      "history_now_bridge": "WORKSHOP BUG REPORT: a Solomonic seal copied in Florentine margin hand becomes a side-quest tracker for sacred receipts; a witness line runs from a Solomonic seal copied in Florentine margin hand to a side-quest tracker for sacred receipts without pretending it is holy; the groupchat says no cap and immediately screenshots the evidence.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: train the profile with laurel as the codon witness counts triplets. Your profile survives probate, certified by the frame maker.",
+      "qr_payload_if_drawn": "QR WITNESS #13: Sette di Coppe names Botticelli; the groupchat says no cap and immediately screenshots the evidence.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #13 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-13",
+        "SUPPLY 1401 // PALETTE glitch candy rot // OUTER EDGE ASCII UNDERLAYER // GEMATRIA ARC"
+      ],
+      "tarocchi_card_body": "Sette di Coppe",
+      "generated_insert_label": "a pixelated espresso cup that steams private keys",
+      "background_chatter_samples": [
+        "workshop bug report: Sette di Coppe witness line",
+        "Sette di Coppe note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Sette di Coppe keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Sette di Coppe back to the relic",
+        "quiet note: workshop bug report stays open",
+        "WEBRING VALIDATOR: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "RIZZLER RELIC",
+      "palette": "glitch candy rot",
+      "style_tribe": "Webring Validator Shrine",
+      "insert_mode": "NES",
+      "generated_insert": "a pixelated espresso cup that steams private keys",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Sette di Coppe",
+        "category": "seme",
+        "motif": "cup_pip",
+        "roman": null,
+        "suit": "Coppe",
+        "rank": "Sette",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "RATIO",
+        "gematria_sum": 378,
+        "oracle": "Visible",
+        "chaos_dial": 72,
+        "brainrot_index": 84
+      },
+      "composition_read": "Botticelli anchors the historical source. Sette di Coppe supplies the witness logic. a pixelated espresso cup that steams private keys acts as the modern meme-object. The glitch candy rot palette and Webring Validator Shrine styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in workshop bug report. The old-world clue is a Solomonic seal copied in Florentine margin hand; the modern-world echo is a side-quest tracker for sacred receipts. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Sette di Coppe card is not decorative; it is the witness that tells you how to read the room. A witness line runs from a Solomonic seal copied in Florentine margin hand to a side-quest tracker for sacred receipts without pretending it is holy. The groupchat says no cap and immediately screenshots the evidence. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        },
+        {
+          "term": "opp",
+          "translation_for_normal_plebs": "opponent or enemy; in this world a rival guild, collector, or saintly antagonist"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "WORKSHOP BUG REPORT",
+      "old_node": "a Solomonic seal copied in Florentine margin hand",
+      "modern_node": "a side-quest tracker for sacred receipts",
+      "evidence": "a witness line runs from a Solomonic seal copied in Florentine margin hand to a side-quest tracker for sacred receipts without pretending it is holy",
+      "verdict": "the groupchat says no cap and immediately screenshots the evidence",
+      "reply": "patron chat: nobody admit the receipt matches"
+    },
+    "render_context": {
+      "source_token_id": 13,
+      "source_panel_index": 1,
+      "style_capsule_id": "2D-0013-712d693b"
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #16",
-  "description": "Florentine Brainrot #16 is a windows bruise single-panel relic built around Botticelli and Rage Comic Fresco Court. Tarocchi Fiorentini assigns Due di Spade, used here as the witness card. The Due di Spade motif turns the whole panel into a little court exhibit. The patron calls it taste because fraud sounds expensive. Serial BOTT-16 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks RIZZ at Σ 474.",
+  "description": "Florentine Brainrot #16 is a windows bruise single-panel relic built around Botticelli and Rage Comic Fresco Court. Tarocchi Fiorentini assigns Due di Spade, used here as the witness card. The Due di Spade motif turns the whole panel into a little court exhibit. The patron calls it taste because fraud sounds expensive. The generated insert — a mempool monster with little Renaissance shoes — acts as the modern clue; Gematria marks RIZZ at Σ 474.",
   "image": "0016.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Due di Spade"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-16"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "RIZZ"
     },
@@ -58,5 +50,86 @@
       "value": 100,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #16",
+      "main_caption": "Renaissance math enters the mempool and starts correcting posture. Botticelli is not random dressing here: the Due di Spade motif turns the whole panel into a little court exhibit, so the patron calls it taste because fraud sounds expensive.",
+      "history_now_bridge": "MIRROR COURT MINUTES: the Due di Spade motif turns the whole panel into a little court exhibit; it links a Polybius square drawn into a wool-guild ledger to a bug report filed by a jealous workshop apprentice; the patron calls it taste because fraud sounds expensive.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: veil the jaw like a banking secret before guild inspection. The frame asks for royalties, logged before the patron blinked.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #16 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-16",
+        "SUPPLY 1401 // PALETTE windows bruise // OUTER EDGE ASCII UNDERLAYER // FANUM-TAX LEDGER"
+      ],
+      "tarocchi_card_body": "Due di Spade",
+      "generated_insert_label": "a mempool monster with little Renaissance shoes",
+      "background_chatter_samples": [
+        "mirror court minutes: Due di Spade witness line",
+        "Due di Spade note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Due di Spade keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Due di Spade back to the relic",
+        "quiet note: mirror court minutes stays open",
+        "RAGE COMIC FRESCO: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "TAROT CANON EVENT",
+      "palette": "windows bruise",
+      "style_tribe": "Rage Comic Fresco Court",
+      "insert_mode": "C64",
+      "generated_insert": "a mempool monster with little Renaissance shoes",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Due di Spade",
+        "category": "seme",
+        "motif": "sword_pip",
+        "roman": null,
+        "suit": "Spade",
+        "rank": "Due",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "RIZZ",
+        "gematria_sum": 474,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 93,
+        "brainrot_index": 100
+      },
+      "composition_read": "Botticelli anchors the historical source. Due di Spade supplies the witness logic. a mempool monster with little Renaissance shoes acts as the modern meme-object. The windows bruise palette and Rage Comic Fresco Court styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in mirror court minutes. The old-world clue is a Polybius square drawn into a wool-guild ledger; the modern-world echo is a bug report filed by a jealous workshop apprentice. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Due di Spade card is not decorative; it is the witness that tells you how to read the room. The Due di Spade motif turns the whole panel into a little court exhibit. The patron calls it taste because fraud sounds expensive. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": []
+    },
+    "case_file": {
+      "case": "MIRROR COURT MINUTES",
+      "old_node": "a Polybius square drawn into a wool-guild ledger",
+      "modern_node": "a bug report filed by a jealous workshop apprentice",
+      "evidence": "the Due di Spade motif turns the whole panel into a little court exhibit",
+      "verdict": "the patron calls it taste because fraud sounds expensive",
+      "reply": "margin reply: same case, different halo"
+    },
+    "render_context": {
+      "source_token_id": 16,
+      "source_panel_index": 4,
+      "style_capsule_id": "2D-0016-8b77c0d2"
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #17",
-  "description": "Florentine Brainrot #17 is a auction blood marble single-panel relic built around Botticelli and CRT Goblin Ledger. Tarocchi Fiorentini assigns Le Trombe, used here as the witness card. Botticelli keeps showing up in the margin whenever a meme-caption escrow for delulu patrons refreshes. The fresco keeps receipts better than the family does. Serial BOTT-17 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks DUOMO at Σ 408.",
+  "description": "Florentine Brainrot #17 is a auction blood marble single-panel relic built around Botticelli and CRT Goblin Ledger. Tarocchi Fiorentini assigns Le Trombe, used here as the witness card. Botticelli keeps showing up in the margin whenever a meme-caption escrow for delulu patrons refreshes. The fresco keeps receipts better than the family does. The generated insert — a cartoon oracle vending machine dispensing bad alpha — acts as the modern clue; Gematria marks DUOMO at Σ 408.",
   "image": "0017.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Le Trombe"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-17"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "DUOMO"
     },
@@ -62,5 +54,103 @@
       "value": 86,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #17",
+      "main_caption": "The final face mints a rule: no patronage without receipts. The panel reads like notary case: Botticelli keeps showing up in the margin whenever a meme-caption escrow for delulu patrons refreshes; the fresco keeps receipts better than the family does.",
+      "history_now_bridge": "NOTARY CASE: a goated fresco receipt under varnish becomes a meme-caption escrow for delulu patrons; Botticelli keeps showing up in the margin whenever a meme-caption escrow for delulu patrons refreshes; the fresco keeps receipts better than the family does.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: archive the halo liquidity under candle soot before the guild says no cap. The Alberti wheel unlocks a better angle, certified by the frame maker.",
+      "qr_payload_if_drawn": "QR WITNESS #17: Le Trombe names Botticelli; the fresco keeps receipts better than the family does.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #17 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-17",
+        "SUPPLY 1401 // PALETTE auction blood marble // OUTER EDGE ASCII UNDERLAYER // MAIN-CHARACTER ALTAR"
+      ],
+      "tarocchi_card_body": "Le Trombe",
+      "generated_insert_label": "a cartoon oracle vending machine dispensing bad alpha",
+      "background_chatter_samples": [
+        "notary case: Le Trombe witness line",
+        "Le Trombe note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Le Trombe keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Le Trombe back to the relic",
+        "quiet note: notary case stays open",
+        "CRT GOBLIN LEDGER: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "SIGMA CHAPEL",
+      "palette": "auction blood marble",
+      "style_tribe": "CRT Goblin Ledger",
+      "insert_mode": "ARCADE",
+      "generated_insert": "a cartoon oracle vending machine dispensing bad alpha",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Le Trombe",
+        "category": "arie",
+        "motif": "trumpets",
+        "roman": "XXXX",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "DUOMO",
+        "gematria_sum": 408,
+        "oracle": "Visible",
+        "chaos_dial": 70,
+        "brainrot_index": 86
+      },
+      "composition_read": "Botticelli anchors the historical source. Le Trombe supplies the witness logic. a cartoon oracle vending machine dispensing bad alpha acts as the modern meme-object. The auction blood marble palette and CRT Goblin Ledger styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in notary case. The old-world clue is a goated fresco receipt under varnish; the modern-world echo is a meme-caption escrow for delulu patrons. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Le Trombe card is not decorative; it is the witness that tells you how to read the room. Botticelli keeps showing up in the margin whenever a meme-caption escrow for delulu patrons refreshes. The fresco keeps receipts better than the family does. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "delulu",
+          "translation_for_normal_plebs": "delusional but committed; usually a patron or collector inventing meaning too confidently"
+        },
+        {
+          "term": "goated",
+          "translation_for_normal_plebs": "treated as the greatest of all time, sometimes for stupid reasons"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "NOTARY CASE",
+      "old_node": "a goated fresco receipt under varnish",
+      "modern_node": "a meme-caption escrow for delulu patrons",
+      "evidence": "Botticelli keeps showing up in the margin whenever a meme-caption escrow for delulu patrons refreshes",
+      "verdict": "the fresco keeps receipts better than the family does",
+      "reply": "margin reply: same case, different halo"
+    },
+    "render_context": {
+      "source_token_id": 17,
+      "source_panel_index": 5,
+      "style_capsule_id": "2D-0017-4ff30326"
+    }
+  }
 }

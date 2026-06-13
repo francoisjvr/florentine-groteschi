@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #3",
-  "description": "Florentine Brainrot #3 is a toxic emerald tabloid single-panel relic built around DaVinci and Bootleg Museum Giftshop. Tarocchi Fiorentini assigns Fuoco, used here as the witness card. The Fuoco motif turns the whole panel into a little court exhibit. The small evidence marks become witnesses, not gimmicks. Serial DAVI-3 carries codon marker GATGCTGTAATAAACTGTATT; Gematria marks CODEX at Σ 306.",
+  "description": "Florentine Brainrot #3 is a toxic emerald tabloid single-panel relic built around DaVinci and Bootleg Museum Giftshop. Tarocchi Fiorentini assigns Fuoco, used here as the witness card. The Fuoco motif turns the whole panel into a little court exhibit. The small evidence marks become witnesses, not gimmicks. The generated insert — a hand-drawn liquidity puddle reflecting the Duomo — acts as the modern clue; Gematria marks CODEX at Σ 306.",
   "image": "0003.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Fuoco"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATGCTGTAATAAACTGTATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "DAVI-3"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "CODEX"
     },
@@ -62,5 +54,99 @@
       "value": 100,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #3",
+      "main_caption": "Old money meets new money and immediately asks for receipts. DaVinci is not random dressing here: the Fuoco motif turns the whole panel into a little court exhibit, so the small evidence marks become witnesses, not gimmicks.",
+      "history_now_bridge": "NOTARY CASE: a fresco giornata seam hiding workshop gossip becomes a CAPTCHA grid asking which saints are traffic lights; the Fuoco motif turns the whole panel into a little court exhibit; the small evidence marks become witnesses, not gimmicks.",
+      "period_looksmaxx_plaque": "DAVINCI NOTEBOOKMAXX MIRROR NOTE: assign Mars to the nose bridge before the guild says no cap. The notary calls it a cooked miracle, kept short for plaque survival.",
+      "qr_payload_if_drawn": "ORACLE #3: Fuoco watches DaVinci; the small evidence marks become witnesses, not gimmicks.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #3 // BASE DAVINCI // MARKER GATGCTGTAATAAACTGTATT // SERIAL DAVI-3",
+        "SUPPLY 1401 // PALETTE toxic emerald tabloid // OUTER EDGE ASCII UNDERLAYER // ZODIAC TAX"
+      ],
+      "tarocchi_card_body": "Fuoco",
+      "generated_insert_label": "a hand-drawn liquidity puddle reflecting the Duomo",
+      "background_chatter_samples": [
+        "notary case: Fuoco witness line",
+        "Fuoco note: DaVinci keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: DaVinci is the custody problem",
+        "card margin: Fuoco keeps the room honest",
+        "archive aside: evidence filed under DaVinci",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches DaVinci",
+        "margin arrow: follow Fuoco back to the relic",
+        "quiet note: notary case stays open",
+        "BOOTLEG MUSEUM: did the patron just subtweet the halo?",
+        "workshop chat // DAVINCI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "DaVinci",
+      "panel_role": "MORSE CHAPEL",
+      "palette": "toxic emerald tabloid",
+      "style_tribe": "Bootleg Museum Giftshop",
+      "insert_mode": "PICO-8",
+      "generated_insert": "a hand-drawn liquidity puddle reflecting the Duomo",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Fuoco",
+        "category": "elemento",
+        "motif": "fire",
+        "roman": "XX",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "CODEX",
+        "gematria_sum": 306,
+        "oracle": "Visible",
+        "chaos_dial": 94,
+        "brainrot_index": 100
+      },
+      "composition_read": "DaVinci anchors the historical source. Fuoco supplies the witness logic. a hand-drawn liquidity puddle reflecting the Duomo acts as the modern meme-object. The toxic emerald tabloid palette and Bootleg Museum Giftshop styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: DaVinci is treated as evidence in notary case. The old-world clue is a fresco giornata seam hiding workshop gossip; the modern-world echo is a CAPTCHA grid asking which saints are traffic lights. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Fuoco card is not decorative; it is the witness that tells you how to read the room. The Fuoco motif turns the whole panel into a little court exhibit. The small evidence marks become witnesses, not gimmicks. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "cooked",
+          "translation_for_normal_plebs": "doomed, exposed, or overprocessed by the situation"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "NOTARY CASE",
+      "old_node": "a fresco giornata seam hiding workshop gossip",
+      "modern_node": "a CAPTCHA grid asking which saints are traffic lights",
+      "evidence": "the Fuoco motif turns the whole panel into a little court exhibit",
+      "verdict": "the small evidence marks become witnesses, not gimmicks",
+      "reply": "archive mod: this is why the label keeps changing"
+    },
+    "render_context": {
+      "source_token_id": 3,
+      "source_panel_index": 3,
+      "style_capsule_id": "2D-0003-03483f74"
+    }
+  }
 }

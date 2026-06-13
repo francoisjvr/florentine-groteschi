@@ -51,7 +51,7 @@
   "brainrot_text_rule": "Visible copy uses a coherent text-thread system: 16 case labels, 12 evidence templates, 12 verdicts, and 16 priority chatter replies bind each token's source, Tarocchi card, history bridge, QR text, caption, and marginalia. Brainrot slang remains in secondary banks (131 terms, 55 creatures, 55 microtexts) but is no longer randomly bolted onto major text lanes.",
   "looksmax_rule": "Every source/base character receives one deterministic period looksmaxxing tip. The plaque now uses independent deterministic slot picks from 82 actions, 70 contexts, 74 results, and 8 evidence suffixes, avoiding adjacent copy-paste endings and random postscript lacing.",
   "tarot_rule": "The Tarocchi Fiorentini metadata trait uses the complete 97-card Tarocchi Fiorentini / Minchiate deck (41 trumps including Il Matto + 56 Latin-suit cards) with one deterministic shuffled card per design via seed 1492, stride 37, and offset 23. Across 1401 designs this yields 14 complete 97-card sets plus 43 extras; each rendered panel attempts a visible custom Tarocchi card graphic with the Italian card name/motif in the body and no redundant top trait label. Category-aware motifs cover Papi, virtues, elements, zodiac, Arie, suit pips, and court cards.",
-  "visible_label_rule": "Artwork labels mirror metadata attribute names where they expose metadata-like values: Base, Marker, Serial, Palette, Insert Mode, Panel Role, Generated Insert, Gematria Word, Gematria Sum, and Oracle. Panel Role appears in the main caption only; the secondary top-right HUD uses the non-duplicative case-file label. Tarocchi Fiorentini is metadata-backed but the visible card relies on its Italian card name/motif rather than an extra top trait label. Output filenames stay zero-padded for sorting.",
+  "visible_label_rule": "OpenSea-facing attributes stay marketplace-readable: Base, Panel Role, Palette, Style Tribe, Insert Mode, Generated Insert, Tarocchi Fiorentini, Gematria Word, Gematria Sum, Oracle when visible, Chaos Dial, and Brainrot Index. Marker/Serial are no longer public attributes; their codon/serial strings only remain if they are literally visible in the bottom provenance strip captured under florentine_brainrot.visible_text. Tarocchi Fiorentini is metadata-backed but the visible card relies on its Italian card name/motif rather than an extra top trait label. Output filenames stay zero-padded for sorting.",
   "rendered": [
     {
       "token_id": 1,
@@ -562,5 +562,5 @@
   "contact_sheet": "renders\\brainrot-tarocchi-fiorentini-final-polish\\batch-24-contact-sheet.png",
   "zip": "C:\\Users\\Francois\\HermesWorkspace\\comic\\florentine-2d-collection\\renders\\brainrot-tarocchi-fiorentini-final-polish.zip",
   "rendered_count": 24,
-  "elapsed_seconds": 65.41
+  "elapsed_seconds": 4.05
 }

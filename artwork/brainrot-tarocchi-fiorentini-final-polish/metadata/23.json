@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #23",
-  "description": "Florentine Brainrot #23 is a tabloid rust single-panel relic built around Machiavelli and Flash Game Guildhall. Tarocchi Fiorentini assigns Dieci di Bastoni, used here as the witness card. A witness line runs from a goated fresco receipt under varnish to a meme-caption escrow for delulu patrons without pretending it is holy. The collector gets a joke, but the joke has a ledger. Serial MACH-23 carries codon marker ATGGCTTGTCACATAGCCGTAGAACTCCTAATT; Gematria marks RELIC at Σ 282.",
+  "description": "Florentine Brainrot #23 is a tabloid rust single-panel relic built around Machiavelli and Flash Game Guildhall. Tarocchi Fiorentini assigns Dieci di Bastoni, used here as the witness card. A witness line runs from a goated fresco receipt under varnish to a meme-caption escrow for delulu patrons without pretending it is holy. The collector gets a joke, but the joke has a ledger. The generated insert — a rubber stamp reading NOT FINANCIAL ADVICE in medieval ink — acts as the modern clue; Gematria marks RELIC at Σ 282.",
   "image": "0023.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Dieci di Bastoni"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGGCTTGTCACATAGCCGTAGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MACH-23"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "RELIC"
     },
@@ -62,5 +54,99 @@
       "value": 81,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #23",
+      "main_caption": "The floor-price crown is made of unsold listings. In the laurenziana incident, a witness line runs from a goated fresco receipt under varnish to a meme-caption escrow for delulu patrons without pretending it is holy; the collector gets a joke, but the joke has a ledger.",
+      "history_now_bridge": "Machiavelli carries a goated fresco receipt under varnish into a meme-caption escrow for delulu patrons; a witness line runs from a goated fresco receipt under varnish to a meme-caption escrow for delulu patrons without pretending it is holy; the collector gets a joke, but the joke has a ledger.",
+      "period_looksmaxx_plaque": "MACHIAVELLI POWERJAWMAXX MIRROR NOTE: burn the studio receipt before the mirror opens while the rarity dashboard stays silent. The chapel whispers back, kept short for plaque survival.",
+      "qr_payload_if_drawn": "QR WITNESS #23: Dieci di Bastoni names Machiavelli; the collector gets a joke, but the joke has a ledger.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #23 // BASE MACHIAVELLI // MARKER ATGGCTTGTCACATAGCCGTAGAACTCCTAATT // SERIAL MACH-23",
+        "SUPPLY 1401 // PALETTE tabloid rust // OUTER EDGE ASCII UNDERLAYER // VIBE ESCROW"
+      ],
+      "tarocchi_card_body": "Dieci di Bastoni",
+      "generated_insert_label": "a rubber stamp reading NOT FINANCIAL ADVICE in medieval ink",
+      "background_chatter_samples": [
+        "laurenziana incident: Dieci di Bastoni witness line",
+        "Dieci di Bastoni note: Machiavelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Machiavelli is the custody problem",
+        "card margin: Dieci di Bastoni keeps the room honest",
+        "archive aside: evidence filed under Machiavelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Machiavelli",
+        "margin arrow: follow Dieci di Bastoni back to the relic",
+        "quiet note: laurenziana incident stays open",
+        "FLASH GAME GUILDHALL: did the patron just subtweet the halo?",
+        "workshop chat // MACHIAVELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Machiavelli",
+      "panel_role": "AURA TRIAL",
+      "palette": "tabloid rust",
+      "style_tribe": "Flash Game Guildhall",
+      "insert_mode": "ARCADE",
+      "generated_insert": "a rubber stamp reading NOT FINANCIAL ADVICE in medieval ink",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Dieci di Bastoni",
+        "category": "seme",
+        "motif": "staff_pip",
+        "roman": null,
+        "suit": "Bastoni",
+        "rank": "Dieci",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "RELIC",
+        "gematria_sum": 282,
+        "oracle": "Visible",
+        "chaos_dial": 54,
+        "brainrot_index": 81
+      },
+      "composition_read": "Machiavelli anchors the historical source. Dieci di Bastoni supplies the witness logic. a rubber stamp reading NOT FINANCIAL ADVICE in medieval ink acts as the modern meme-object. The tabloid rust palette and Flash Game Guildhall styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Machiavelli is treated as evidence in laurenziana incident. The old-world clue is a goated fresco receipt under varnish; the modern-world echo is a meme-caption escrow for delulu patrons. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Dieci di Bastoni card is not decorative; it is the witness that tells you how to read the room. A witness line runs from a goated fresco receipt under varnish to a meme-caption escrow for delulu patrons without pretending it is holy. The collector gets a joke, but the joke has a ledger. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "delulu",
+          "translation_for_normal_plebs": "delusional but committed; usually a patron or collector inventing meaning too confidently"
+        },
+        {
+          "term": "goated",
+          "translation_for_normal_plebs": "treated as the greatest of all time, sometimes for stupid reasons"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "LAURENZIANA INCIDENT",
+      "old_node": "a goated fresco receipt under varnish",
+      "modern_node": "a meme-caption escrow for delulu patrons",
+      "evidence": "a witness line runs from a goated fresco receipt under varnish to a meme-caption escrow for delulu patrons without pretending it is holy",
+      "verdict": "the collector gets a joke, but the joke has a ledger",
+      "reply": "archive mod: this is why the label keeps changing"
+    },
+    "render_context": {
+      "source_token_id": 23,
+      "source_panel_index": 5,
+      "style_capsule_id": "2D-0023-6d310d56"
+    }
+  }
 }

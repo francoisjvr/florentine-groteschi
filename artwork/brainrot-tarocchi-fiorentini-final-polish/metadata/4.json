@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #4",
-  "description": "Florentine Brainrot #4 is a blue screen reliquary single-panel relic built around Botticelli and Cursed Auction House UI. Tarocchi Fiorentini assigns Speranza, used here as the witness card. The source relic, the card, and the caption all accuse the same room. Cosimo approves the lighting and ignores the crime. Serial BOTT-4 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks GYATT at Σ 438.",
+  "description": "Florentine Brainrot #4 is a blue screen reliquary single-panel relic built around Botticelli and Cursed Auction House UI. Tarocchi Fiorentini assigns Speranza, used here as the witness card. The source relic, the card, and the caption all accuse the same room. Cosimo approves the lighting and ignores the crime. The generated insert — a cherub holding a QR code like a cursed coupon — acts as the modern clue; Gematria marks GYATT at Σ 438.",
   "image": "0004.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Speranza"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-4"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "GYATT"
     },
@@ -58,5 +50,95 @@
       "value": 75,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #4",
+      "main_caption": "Botticelli audits the chain with a brush, a ledger, and zero patience. MEDICI RECEIPT DRAMA: the source relic, the card, and the caption all accuse the same room; Cosimo approves the lighting and ignores the crime.",
+      "history_now_bridge": "Botticelli witness line: Cosimo's private library shelfmark reaches a CAPTCHA grid asking which saints are traffic lights; Cosimo approves the lighting and ignores the crime.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: let the codon stop signal prune the bad pose in the mirror the notary distrusts. Vasari calls it restraint, certified by the frame maker.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #4 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-4",
+        "SUPPLY 1401 // PALETTE blue screen reliquary // OUTER EDGE ASCII UNDERLAYER // CODEX RIZZ"
+      ],
+      "tarocchi_card_body": "Speranza",
+      "generated_insert_label": "a cherub holding a QR code like a cursed coupon",
+      "background_chatter_samples": [
+        "medici receipt drama: Speranza witness line",
+        "Speranza note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Speranza keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Speranza back to the relic",
+        "quiet note: medici receipt drama stays open",
+        "CURSED AUCTION HOUSE: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "ITALIAN BRAINROT VISITATION",
+      "palette": "blue screen reliquary",
+      "style_tribe": "Cursed Auction House UI",
+      "insert_mode": "C64",
+      "generated_insert": "a cherub holding a QR code like a cursed coupon",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Speranza",
+        "category": "virtù",
+        "motif": "hope",
+        "roman": "XVI",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "GYATT",
+        "gematria_sum": 438,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 98,
+        "brainrot_index": 75
+      },
+      "composition_read": "Botticelli anchors the historical source. Speranza supplies the witness logic. a cherub holding a QR code like a cursed coupon acts as the modern meme-object. The blue screen reliquary palette and Cursed Auction House UI styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in medici receipt drama. The old-world clue is Cosimo's private library shelfmark; the modern-world echo is a CAPTCHA grid asking which saints are traffic lights. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Speranza card is not decorative; it is the witness that tells you how to read the room. The source relic, the card, and the caption all accuse the same room. Cosimo approves the lighting and ignores the crime. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "rizz",
+          "translation_for_normal_plebs": "charisma or persuasive charm; patronage influence rephrased as social magic"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "MEDICI RECEIPT DRAMA",
+      "old_node": "Cosimo's private library shelfmark",
+      "modern_node": "a CAPTCHA grid asking which saints are traffic lights",
+      "evidence": "the source relic, the card, and the caption all accuse the same room",
+      "verdict": "Cosimo approves the lighting and ignores the crime",
+      "reply": "guild whisper: the evidence is too specific to be holy"
+    },
+    "render_context": {
+      "source_token_id": 4,
+      "source_panel_index": 4,
+      "style_capsule_id": "2D-0004-e0f87d60"
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #18",
-  "description": "Florentine Brainrot #18 is a auction blood marble single-panel relic built around Mona Lisa and Y2K Auction Pop-Up Hell. Tarocchi Fiorentini assigns Asso di Spade, used here as the witness card. The Asso di Spade motif turns the whole panel into a little court exhibit. Cosimo approves the lighting and ignores the crime. Serial MONA-18 carries codon marker ATGTAAAACGCTCTCATATCTGCC; Gematria marks LOWTAPER at Σ 660.",
+  "description": "Florentine Brainrot #18 is a auction blood marble single-panel relic built around Mona Lisa and Y2K Auction Pop-Up Hell. Tarocchi Fiorentini assigns Asso di Spade, used here as the witness card. The Asso di Spade motif turns the whole panel into a little court exhibit. Cosimo approves the lighting and ignores the crime. The generated insert — a counterfeit museum audio guide yelling LFG — acts as the modern clue; Gematria marks LOWTAPER at Σ 660.",
   "image": "0018.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Asso di Spade"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGTAAAACGCTCTCATATCTGCC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MONA-18"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "LOWTAPER"
     },
@@ -58,5 +50,103 @@
       "value": 55,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #18",
+      "main_caption": "The metadata cracks and Renaissance ghosts leak through. In the guild shade file, the Asso di Spade motif turns the whole panel into a little court exhibit; Cosimo approves the lighting and ignores the crime.",
+      "history_now_bridge": "Asso di Spade file: the Asso di Spade motif turns the whole panel into a little court exhibit; modern echo: a moderation dashboard for suspicious halos; Cosimo approves the lighting and ignores the crime.",
+      "period_looksmaxx_plaque": "MONA LISA SFUMATOMAXX MIRROR NOTE: NPC-loop the serene expression where corecore altar light leaks. Chat agrees this is real, noted in the beauty ledger.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #18 // BASE MONALISA // MARKER ATGTAAAACGCTCTCATATCTGCC // SERIAL MONA-18",
+        "SUPPLY 1401 // PALETTE auction blood marble // OUTER EDGE ASCII UNDERLAYER // COOKED FRESCO RUN"
+      ],
+      "tarocchi_card_body": "Asso di Spade",
+      "generated_insert_label": "a counterfeit museum audio guide yelling LFG",
+      "background_chatter_samples": [
+        "guild shade file: Asso di Spade witness line",
+        "Asso di Spade note: Mona Lisa keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Mona Lisa is the custody problem",
+        "card margin: Asso di Spade keeps the room honest",
+        "archive aside: evidence filed under Mona Lisa",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Mona Lisa",
+        "margin arrow: follow Asso di Spade back to the relic",
+        "quiet note: guild shade file stays open",
+        "Y2K AUCTION POP-UP: did the patron just subtweet the halo?",
+        "workshop chat // MONA LISA is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Mona Lisa",
+      "panel_role": "MORSE CHAPEL",
+      "palette": "auction blood marble",
+      "style_tribe": "Y2K Auction Pop-Up Hell",
+      "insert_mode": "SNES",
+      "generated_insert": "a counterfeit museum audio guide yelling LFG",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Asso di Spade",
+        "category": "seme",
+        "motif": "sword_ace",
+        "roman": null,
+        "suit": "Spade",
+        "rank": "Asso",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "LOWTAPER",
+        "gematria_sum": 660,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 60,
+        "brainrot_index": 55
+      },
+      "composition_read": "Mona Lisa anchors the historical source. Asso di Spade supplies the witness logic. a counterfeit museum audio guide yelling LFG acts as the modern meme-object. The auction blood marble palette and Y2K Auction Pop-Up Hell styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Mona Lisa is treated as evidence in guild shade file. The old-world clue is a zodiac checksum copied into a Laurenziana catalogue; the modern-world echo is a moderation dashboard for suspicious halos. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Asso di Spade card is not decorative; it is the witness that tells you how to read the room. The Asso di Spade motif turns the whole panel into a little court exhibit. Cosimo approves the lighting and ignores the crime. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "cooked",
+          "translation_for_normal_plebs": "doomed, exposed, or overprocessed by the situation"
+        },
+        {
+          "term": "npc",
+          "translation_for_normal_plebs": "background-character energy; a docent, patron, or scribe trapped in loop behavior"
+        },
+        {
+          "term": "ratio",
+          "translation_for_normal_plebs": "publicly losing the argument by crowd reaction; old patronage drama as comment metrics"
+        },
+        {
+          "term": "sus",
+          "translation_for_normal_plebs": "suspicious; evidence that the relic, receipt, or miracle is not behaving normally"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "GUILD SHADE FILE",
+      "old_node": "a zodiac checksum copied into a Laurenziana catalogue",
+      "modern_node": "a moderation dashboard for suspicious halos",
+      "evidence": "the Asso di Spade motif turns the whole panel into a little court exhibit",
+      "verdict": "Cosimo approves the lighting and ignores the crime",
+      "reply": "shelfmark reply: do not mix systems without a witness"
+    },
+    "render_context": {
+      "source_token_id": 18,
+      "source_panel_index": 6,
+      "style_capsule_id": "2D-0018-4176e28f"
+    }
+  }
 }

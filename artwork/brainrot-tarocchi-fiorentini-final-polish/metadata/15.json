@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #15",
-  "description": "Florentine Brainrot #15 is a blue screen reliquary single-panel relic built around DaVinci and Synthwave Fresco Laundromat. Tarocchi Fiorentini assigns Sei di Spade, used here as the witness card. DaVinci's codon strip repeats like a clerk trying not to laugh. The caption has to tell the truth because the plaque cannot fit all the gossip. Serial DAVI-15 carries codon marker GATGCTGTAATAAACTGTATT; Gematria marks BASED at Σ 186.",
+  "description": "Florentine Brainrot #15 is a blue screen reliquary single-panel relic built around DaVinci and Synthwave Fresco Laundromat. Tarocchi Fiorentini assigns Sei di Spade, used here as the witness card. DaVinci's codon strip repeats like a clerk trying not to laugh. The caption has to tell the truth because the plaque cannot fit all the gossip. The generated insert — a fake papal bull written as a Discord moderation warning — acts as the modern clue; Gematria marks BASED at Σ 186.",
   "image": "0015.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Sei di Spade"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATGCTGTAATAAACTGTATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "DAVI-15"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "BASED"
     },
@@ -62,5 +54,95 @@
       "value": 56,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #15",
+      "main_caption": "The floor-price crown is made of unsold listings. Sei di Spade is the witness here: DaVinci's codon strip repeats like a clerk trying not to laugh, and the caption has to tell the truth because the plaque cannot fit all the gossip.",
+      "history_now_bridge": "Ficino's no-cap translation draft is not decoration here; it turns into a provenance strip encoded as searchable DNA triplets, and the caption has to tell the truth because the plaque cannot fit all the gossip.",
+      "period_looksmaxx_plaque": "DAVINCI NOTEBOOKMAXX MIRROR NOTE: sleep on a profile sketch before the notary removes empty values. Fanum tax exempts the cheekbones, approved by the jealous cousin.",
+      "qr_payload_if_drawn": "QR WITNESS #15: Sei di Spade names DaVinci; the caption has to tell the truth because the plaque cannot fit all.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #15 // BASE DAVINCI // MARKER GATGCTGTAATAAACTGTATT // SERIAL DAVI-15",
+        "SUPPLY 1401 // PALETTE blue screen reliquary // OUTER EDGE ASCII UNDERLAYER // TRIPLET WITNESS"
+      ],
+      "tarocchi_card_body": "Sei di Spade",
+      "generated_insert_label": "a fake papal bull written as a Discord moderation warning",
+      "background_chatter_samples": [
+        "patron groupchat leak: Sei di Spade witness line",
+        "Sei di Spade note: DaVinci keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: DaVinci is the custody problem",
+        "card margin: Sei di Spade keeps the room honest",
+        "archive aside: evidence filed under DaVinci",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches DaVinci",
+        "margin arrow: follow Sei di Spade back to the relic",
+        "quiet note: patron groupchat leak stays open",
+        "SYNTHWAVE FRESCO: did the patron just subtweet the halo?",
+        "workshop chat // DAVINCI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "DaVinci",
+      "panel_role": "GEMATRIA TRIAL",
+      "palette": "blue screen reliquary",
+      "style_tribe": "Synthwave Fresco Laundromat",
+      "insert_mode": "PICO-8",
+      "generated_insert": "a fake papal bull written as a Discord moderation warning",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Sei di Spade",
+        "category": "seme",
+        "motif": "sword_pip",
+        "roman": null,
+        "suit": "Spade",
+        "rank": "Sei",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "BASED",
+        "gematria_sum": 186,
+        "oracle": "Visible",
+        "chaos_dial": 56,
+        "brainrot_index": 56
+      },
+      "composition_read": "DaVinci anchors the historical source. Sei di Spade supplies the witness logic. a fake papal bull written as a Discord moderation warning acts as the modern meme-object. The blue screen reliquary palette and Synthwave Fresco Laundromat styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: DaVinci is treated as evidence in patron groupchat leak. The old-world clue is Ficino's no-cap translation draft; the modern-world echo is a provenance strip encoded as searchable DNA triplets. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Sei di Spade card is not decorative; it is the witness that tells you how to read the room. DaVinci's codon strip repeats like a clerk trying not to laugh. The caption has to tell the truth because the plaque cannot fit all the gossip. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "fanum tax",
+          "translation_for_normal_plebs": "someone taking a cut; mapped to patronage fees, guild dues, and marketplace rake"
+        },
+        {
+          "term": "ratio",
+          "translation_for_normal_plebs": "publicly losing the argument by crowd reaction; old patronage drama as comment metrics"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "PATRON GROUPCHAT LEAK",
+      "old_node": "Ficino's no-cap translation draft",
+      "modern_node": "a provenance strip encoded as searchable DNA triplets",
+      "evidence": "DaVinci's codon strip repeats like a clerk trying not to laugh",
+      "verdict": "the caption has to tell the truth because the plaque cannot fit all the gossip",
+      "reply": "patron chat: nobody admit the receipt matches"
+    },
+    "render_context": {
+      "source_token_id": 15,
+      "source_panel_index": 3,
+      "style_capsule_id": "2D-0015-e9a3a6a0"
+    }
+  }
 }

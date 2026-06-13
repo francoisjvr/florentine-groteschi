@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #5",
-  "description": "Florentine Brainrot #5 is a windows bruise single-panel relic built around Botticelli and Degen Forum Relic Board. Tarocchi Fiorentini assigns Regina di Bastoni, used here as the witness card. Every small note sounds like someone was trying to hide the same problem. The groupchat says no cap and immediately screenshots the evidence. Serial BOTT-5 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks LORE at Σ 300.",
+  "description": "Florentine Brainrot #5 is a windows bruise single-panel relic built around Botticelli and Degen Forum Relic Board. Tarocchi Fiorentini assigns Regina di Bastoni, used here as the witness card. Every small note sounds like someone was trying to hide the same problem. The groupchat says no cap and immediately screenshots the evidence. The generated insert — a low-res dove dropping governance ballots — acts as the modern clue; Gematria marks LORE at Σ 300.",
   "image": "0005.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Regina di Bastoni"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-5"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "LORE"
     },
@@ -62,5 +54,107 @@
       "value": 75,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #5",
+      "main_caption": "A tiny Renaissance survives inside the block forever. In the notary case, every small note sounds like someone was trying to hide the same problem; the groupchat says no cap and immediately screenshots the evidence.",
+      "history_now_bridge": "NOTARY CASE: every small note sounds like someone was trying to hide the same problem; it links a codon-like triplet chant in a plague notebook to a clean attributes array ready for marketplace filters; the groupchat says no cap and immediately screenshots the evidence.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: mew through vespers beside the NPC docent loop. Blank attributes leave no shadow, filed as mirror evidence.",
+      "qr_payload_if_drawn": "QR WITNESS #5: Regina di Bastoni names Botticelli; the groupchat says no cap and immediately screenshots the evidence.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #5 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-5",
+        "SUPPLY 1401 // PALETTE windows bruise // OUTER EDGE ASCII UNDERLAYER // GOATED CHAPEL RUN"
+      ],
+      "tarocchi_card_body": "Regina di Bastoni",
+      "generated_insert_label": "a low-res dove dropping governance ballots",
+      "background_chatter_samples": [
+        "notary case: Regina di Bastoni witness line",
+        "Regina di Bastoni note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Regina di Bastoni keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Regina di Bastoni back to the relic",
+        "quiet note: notary case stays open",
+        "DEGEN FORUM RELIC: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "SKIBIDI RELIC PANIC",
+      "palette": "windows bruise",
+      "style_tribe": "Degen Forum Relic Board",
+      "insert_mode": "ARCADE",
+      "generated_insert": "a low-res dove dropping governance ballots",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Regina di Bastoni",
+        "category": "seme",
+        "motif": "staff_queen",
+        "roman": null,
+        "suit": "Bastoni",
+        "rank": "Regina",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "LORE",
+        "gematria_sum": 300,
+        "oracle": "Visible",
+        "chaos_dial": 90,
+        "brainrot_index": 75
+      },
+      "composition_read": "Botticelli anchors the historical source. Regina di Bastoni supplies the witness logic. a low-res dove dropping governance ballots acts as the modern meme-object. The windows bruise palette and Degen Forum Relic Board styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in notary case. The old-world clue is a codon-like triplet chant in a plague notebook; the modern-world echo is a clean attributes array ready for marketplace filters. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Regina di Bastoni card is not decorative; it is the witness that tells you how to read the room. Every small note sounds like someone was trying to hide the same problem. The groupchat says no cap and immediately screenshots the evidence. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "goated",
+          "translation_for_normal_plebs": "treated as the greatest of all time, sometimes for stupid reasons"
+        },
+        {
+          "term": "npc",
+          "translation_for_normal_plebs": "background-character energy; a docent, patron, or scribe trapped in loop behavior"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        },
+        {
+          "term": "opp",
+          "translation_for_normal_plebs": "opponent or enemy; in this world a rival guild, collector, or saintly antagonist"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "NOTARY CASE",
+      "old_node": "a codon-like triplet chant in a plague notebook",
+      "modern_node": "a clean attributes array ready for marketplace filters",
+      "evidence": "every small note sounds like someone was trying to hide the same problem",
+      "verdict": "the groupchat says no cap and immediately screenshots the evidence",
+      "reply": "groupchat correction: the saint is not the punchline, the custody is"
+    },
+    "render_context": {
+      "source_token_id": 5,
+      "source_panel_index": 5,
+      "style_capsule_id": "2D-0005-5173c30f"
+    }
+  }
 }

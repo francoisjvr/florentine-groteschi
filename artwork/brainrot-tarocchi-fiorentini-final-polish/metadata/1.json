@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #1",
-  "description": "Florentine Brainrot #1 is a glitch candy rot single-panel relic built around Medici and 404 Error Reliquary. Tarocchi Fiorentini assigns Re di Coppe, used here as the witness card. Medici left a receipt where the Blue-Check Prophet Collapse should have been. The small evidence marks become witnesses, not gimmicks. Serial MEDI-1 carries codon marker ATGGAAGATATATGTATT; Gematria marks FICINO at Σ 336.",
+  "description": "Florentine Brainrot #1 is a glitch candy rot single-panel relic built around Medici and 404 Error Reliquary. Tarocchi Fiorentini assigns Re di Coppe, used here as the witness card. Medici left a receipt where the Blue-Check Prophet Collapse should have been. The small evidence marks become witnesses, not gimmicks. The generated insert — a flaming auction paddle shaped like a hardware wallet — acts as the modern clue; Gematria marks FICINO at Σ 336.",
   "image": "0001.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Re di Coppe"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGGAAGATATATGTATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MEDI-1"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "FICINO"
     },
@@ -62,5 +54,103 @@
       "value": 77,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #1",
+      "main_caption": "Glitch is the cube's way of filing a complaint. The old route runs a rizzler reliquary custody dispute into a codon decoder sticker on a cold wallet; the small evidence marks become witnesses, not gimmicks.",
+      "history_now_bridge": "Re di Coppe file: Medici left a receipt where the Blue-Check Prophet Collapse should have been; modern echo: a codon decoder sticker on a cold wallet; the small evidence marks become witnesses, not gimmicks.",
+      "period_looksmaxx_plaque": "MEDICI PATRONMAXX MIRROR NOTE: powder only the enemies' names before the dowry aunt approaches. The guild calls it goated restraint, noted in the beauty ledger.",
+      "qr_payload_if_drawn": "QR WITNESS #1: Re di Coppe names Medici; the small evidence marks become witnesses, not gimmicks.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #1 // BASE MEDICI // MARKER ATGGAAGATATATGTATT // SERIAL MEDI-1",
+        "SUPPLY 1401 // PALETTE glitch candy rot // OUTER EDGE ASCII UNDERLAYER // PIGPEN SEAL"
+      ],
+      "tarocchi_card_body": "Re di Coppe",
+      "generated_insert_label": "a flaming auction paddle shaped like a hardware wallet",
+      "background_chatter_samples": [
+        "wet fresco incident: Re di Coppe witness line",
+        "Re di Coppe note: Medici keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Medici is the custody problem",
+        "card margin: Re di Coppe keeps the room honest",
+        "archive aside: evidence filed under Medici",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Medici",
+        "margin arrow: follow Re di Coppe back to the relic",
+        "quiet note: wet fresco incident stays open",
+        "404 ERROR RELIQUARY: did the patron just subtweet the halo?",
+        "workshop chat // MEDICI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Medici",
+      "panel_role": "TRAIT DISTORTION / SKIBIDI",
+      "palette": "glitch candy rot",
+      "style_tribe": "404 Error Reliquary",
+      "insert_mode": "NES",
+      "generated_insert": "a flaming auction paddle shaped like a hardware wallet",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Re di Coppe",
+        "category": "seme",
+        "motif": "cup_king",
+        "roman": null,
+        "suit": "Coppe",
+        "rank": "Re",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "FICINO",
+        "gematria_sum": 336,
+        "oracle": "Visible",
+        "chaos_dial": 78,
+        "brainrot_index": 77
+      },
+      "composition_read": "Medici anchors the historical source. Re di Coppe supplies the witness logic. a flaming auction paddle shaped like a hardware wallet acts as the modern meme-object. The glitch candy rot palette and 404 Error Reliquary styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Medici is treated as evidence in wet fresco incident. The old-world clue is a rizzler reliquary custody dispute; the modern-world echo is a codon decoder sticker on a cold wallet. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Re di Coppe card is not decorative; it is the witness that tells you how to read the room. Medici left a receipt where the Blue-Check Prophet Collapse should have been. The small evidence marks become witnesses, not gimmicks. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "goated",
+          "translation_for_normal_plebs": "treated as the greatest of all time, sometimes for stupid reasons"
+        },
+        {
+          "term": "opp",
+          "translation_for_normal_plebs": "opponent or enemy; in this world a rival guild, collector, or saintly antagonist"
+        },
+        {
+          "term": "rizz",
+          "translation_for_normal_plebs": "charisma or persuasive charm; patronage influence rephrased as social magic"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "WET FRESCO INCIDENT",
+      "old_node": "a rizzler reliquary custody dispute",
+      "modern_node": "a codon decoder sticker on a cold wallet",
+      "evidence": "Medici left a receipt where the Blue-Check Prophet Collapse should have been",
+      "verdict": "the small evidence marks become witnesses, not gimmicks",
+      "reply": "docent dm: it makes sense if you read the bottom strip"
+    },
+    "render_context": {
+      "source_token_id": 1,
+      "source_panel_index": 1,
+      "style_capsule_id": "2D-0001-72e5c801"
+    }
+  }
 }

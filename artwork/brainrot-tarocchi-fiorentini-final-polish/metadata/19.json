@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #19",
-  "description": "Florentine Brainrot #19 is a meme macro primary single-panel relic built around Botticelli and Forum Signature Baroque. Tarocchi Fiorentini assigns Ruota della Fortuna, used here as the witness card. Every small note sounds like someone was trying to hide the same problem. The fresco keeps receipts better than the family does. Serial BOTT-19 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks RELIC at Σ 282.",
+  "description": "Florentine Brainrot #19 is a meme macro primary single-panel relic built around Botticelli and Forum Signature Baroque. Tarocchi Fiorentini assigns Ruota della Fortuna, used here as the witness card. Every small note sounds like someone was trying to hide the same problem. The fresco keeps receipts better than the family does. The generated insert — a pop-up ad promising immortality for 0.08 ETH — acts as the modern clue; Gematria marks RELIC at Σ 282.",
   "image": "0019.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Ruota della Fortuna"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-19"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "RELIC"
     },
@@ -62,5 +54,95 @@
       "value": 65,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #19",
+      "main_caption": "Renaissance math enters the mempool and starts correcting posture. Botticelli is not random dressing here: every small note sounds like someone was trying to hide the same problem, so the fresco keeps receipts better than the family does.",
+      "history_now_bridge": "BAPTISTERY FLOOR THREAD: every small note sounds like someone was trying to hide the same problem; it links a patron contract folded into a prayer card to a QR-code audio guide whispering private keys; the fresco keeps receipts better than the family does.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: arrange curls like controlled fire while the frame maker blinks. The Bacon ribbon hides all negative aura, kept short for plaque survival.",
+      "qr_payload_if_drawn": "QR WITNESS #19: Ruota della Fortuna names Botticelli; the fresco keeps receipts better than the family does.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #19 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-19",
+        "SUPPLY 1401 // PALETTE meme macro primary // OUTER EDGE ASCII UNDERLAYER // GEMATRIA ARC"
+      ],
+      "tarocchi_card_body": "Ruota della Fortuna",
+      "generated_insert_label": "a pop-up ad promising immortality for 0.08 ETH",
+      "background_chatter_samples": [
+        "baptistery floor thread: Ruota della Fortuna witness line",
+        "Ruota della Fortuna note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Ruota della Fortuna keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Ruota della Fortuna back to the relic",
+        "quiet note: baptistery floor thread stays open",
+        "FORUM SIGNATURE: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "NPC DOCENT LOOP",
+      "palette": "meme macro primary",
+      "style_tribe": "Forum Signature Baroque",
+      "insert_mode": "NES",
+      "generated_insert": "a pop-up ad promising immortality for 0.08 ETH",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Ruota della Fortuna",
+        "category": "trionfo",
+        "motif": "wheel",
+        "roman": "VIIII",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "RELIC",
+        "gematria_sum": 282,
+        "oracle": "Visible",
+        "chaos_dial": 73,
+        "brainrot_index": 65
+      },
+      "composition_read": "Botticelli anchors the historical source. Ruota della Fortuna supplies the witness logic. a pop-up ad promising immortality for 0.08 ETH acts as the modern meme-object. The meme macro primary palette and Forum Signature Baroque styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in baptistery floor thread. The old-world clue is a patron contract folded into a prayer card; the modern-world echo is a QR-code audio guide whispering private keys. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Ruota della Fortuna card is not decorative; it is the witness that tells you how to read the room. Every small note sounds like someone was trying to hide the same problem. The fresco keeps receipts better than the family does. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "aura",
+          "translation_for_normal_plebs": "status, presence, or holy-looking social charge; Renaissance clout converted into meme units"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "BAPTISTERY FLOOR THREAD",
+      "old_node": "a patron contract folded into a prayer card",
+      "modern_node": "a QR-code audio guide whispering private keys",
+      "evidence": "every small note sounds like someone was trying to hide the same problem",
+      "verdict": "the fresco keeps receipts better than the family does",
+      "reply": "ledger aside: joke accepted, evidence pending"
+    },
+    "render_context": {
+      "source_token_id": 19,
+      "source_panel_index": 1,
+      "style_capsule_id": "2D-0019-06aba55f"
+    }
+  }
 }

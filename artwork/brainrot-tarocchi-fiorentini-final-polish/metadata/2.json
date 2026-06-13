@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #2",
-  "description": "Florentine Brainrot #2 is a crt goblin single-panel relic built around Mona Lisa and Forum Signature Baroque. Tarocchi Fiorentini assigns Sette di Denari, used here as the witness card. The Forum Signature Baroque layout makes the old scandal look newly clickable. The caption has to tell the truth because the plaque cannot fit all the gossip. Serial MONA-2 carries codon marker ATGTAAAACGCTCTCATATCTGCC; Gematria marks DELULU at Σ 450.",
+  "description": "Florentine Brainrot #2 is a crt goblin single-panel relic built around Mona Lisa and Forum Signature Baroque. Tarocchi Fiorentini assigns Sette di Denari, used here as the witness card. The Forum Signature Baroque layout makes the old scandal look newly clickable. The caption has to tell the truth because the plaque cannot fit all the gossip. The generated insert — a floor-price crown made of unsold listing cards — acts as the modern clue; Gematria marks DELULU at Σ 450.",
   "image": "0002.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Sette di Denari"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGTAAAACGCTCTCATATCTGCC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MONA-2"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "DELULU"
     },
@@ -58,5 +50,95 @@
       "value": 94,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #2",
+      "main_caption": "Even the angels mute the sponsored thread. The old route runs a touch-grass decree from the garden wall into a skibidi audio guide under museum headphones; the caption has to tell the truth because the plaque cannot fit all the gossip.",
+      "history_now_bridge": "LAURENZIANA INCIDENT: the Forum Signature Baroque layout makes the old scandal look newly clickable; it links a touch-grass decree from the garden wall to a skibidi audio guide under museum headphones; the caption has to tell the truth because the plaque cannot fit all the gossip.",
+      "period_looksmaxx_plaque": "MONA LISA SFUMATOMAXX MIRROR NOTE: NPC-loop the serene expression under zodiac-risk committee lighting. The apprentice deletes his sketch, approved by the jealous cousin.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #2 // BASE MONALISA // MARKER ATGTAAAACGCTCTCATATCTGCC // SERIAL MONA-2",
+        "SUPPLY 1401 // PALETTE crt goblin // OUTER EDGE ASCII UNDERLAYER // MORSE RELIC"
+      ],
+      "tarocchi_card_body": "Sette di Denari",
+      "generated_insert_label": "a floor-price crown made of unsold listing cards",
+      "background_chatter_samples": [
+        "laurenziana incident: Sette di Denari witness line",
+        "Sette di Denari note: Mona Lisa keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Mona Lisa is the custody problem",
+        "card margin: Sette di Denari keeps the room honest",
+        "archive aside: evidence filed under Mona Lisa",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Mona Lisa",
+        "margin arrow: follow Sette di Denari back to the relic",
+        "quiet note: laurenziana incident stays open",
+        "FORUM SIGNATURE: did the patron just subtweet the halo?",
+        "workshop chat // MONA LISA is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Mona Lisa",
+      "panel_role": "CRYPTO ROAST / OHIO",
+      "palette": "crt goblin",
+      "style_tribe": "Forum Signature Baroque",
+      "insert_mode": "GAME BOY DMG",
+      "generated_insert": "a floor-price crown made of unsold listing cards",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Sette di Denari",
+        "category": "seme",
+        "motif": "coin_pip",
+        "roman": null,
+        "suit": "Denari",
+        "rank": "Sette",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "DELULU",
+        "gematria_sum": 450,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 45,
+        "brainrot_index": 94
+      },
+      "composition_read": "Mona Lisa anchors the historical source. Sette di Denari supplies the witness logic. a floor-price crown made of unsold listing cards acts as the modern meme-object. The crt goblin palette and Forum Signature Baroque styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Mona Lisa is treated as evidence in laurenziana incident. The old-world clue is a touch-grass decree from the garden wall; the modern-world echo is a skibidi audio guide under museum headphones. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Sette di Denari card is not decorative; it is the witness that tells you how to read the room. The Forum Signature Baroque layout makes the old scandal look newly clickable. The caption has to tell the truth because the plaque cannot fit all the gossip. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "npc",
+          "translation_for_normal_plebs": "background-character energy; a docent, patron, or scribe trapped in loop behavior"
+        },
+        {
+          "term": "skibidi",
+          "translation_for_normal_plebs": "pure absurdist brainrot signal; a choir, relic, or interface acting possessed by meme culture"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "LAURENZIANA INCIDENT",
+      "old_node": "a touch-grass decree from the garden wall",
+      "modern_node": "a skibidi audio guide under museum headphones",
+      "evidence": "the Forum Signature Baroque layout makes the old scandal look newly clickable",
+      "verdict": "the caption has to tell the truth because the plaque cannot fit all the gossip",
+      "reply": "desk note: follow the red string before vespers"
+    },
+    "render_context": {
+      "source_token_id": 2,
+      "source_panel_index": 2,
+      "style_capsule_id": "2D-0002-51c41871"
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #10",
-  "description": "Florentine Brainrot #10 is a windows bruise single-panel relic built around Mona Lisa and Rage Comic Fresco Court. Tarocchi Fiorentini assigns Quattro di Denari, used here as the witness card. The Quattro di Denari motif turns the whole panel into a little court exhibit. Cosimo approves the lighting and ignores the crime. Serial MONA-10 carries codon marker ATGTAAAACGCTCTCATATCTGCC; Gematria marks MONALISA at Σ 504.",
+  "description": "Florentine Brainrot #10 is a windows bruise single-panel relic built around Mona Lisa and Rage Comic Fresco Court. Tarocchi Fiorentini assigns Quattro di Denari, used here as the witness card. The Quattro di Denari motif turns the whole panel into a little court exhibit. Cosimo approves the lighting and ignores the crime. The generated insert — a saintly captcha angel with broken checkboxes — acts as the modern clue; Gematria marks MONALISA at Σ 504.",
   "image": "0010.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Quattro di Denari"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGTAAAACGCTCTCATATCTGCC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MONA-10"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "MONALISA"
     },
@@ -58,5 +50,99 @@
       "value": 82,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #10",
+      "main_caption": "A fresco technique becomes a governance exploit. Quattro di Denari is the witness here: the Quattro di Denari motif turns the whole panel into a little court exhibit, and Cosimo approves the lighting and ignores the crime.",
+      "history_now_bridge": "Quattro di Denari file: the Quattro di Denari motif turns the whole panel into a little court exhibit; modern echo: an Ohio map pin inside the Duomo floor plan; Cosimo approves the lighting and ignores the crime.",
+      "period_looksmaxx_plaque": "MONA LISA SFUMATOMAXX MIRROR NOTE: ink Theban contour lines around the lips beside the NPC docent loop. The mirror says no cap, kept short for plaque survival.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #10 // BASE MONALISA // MARKER ATGTAAAACGCTCTCATATCTGCC // SERIAL MONA-10",
+        "SUPPLY 1401 // PALETTE windows bruise // OUTER EDGE ASCII UNDERLAYER // TOUCH-GRASS DECREE"
+      ],
+      "tarocchi_card_body": "Quattro di Denari",
+      "generated_insert_label": "a saintly captcha angel with broken checkboxes",
+      "background_chatter_samples": [
+        "notary case: Quattro di Denari witness line",
+        "Quattro di Denari note: Mona Lisa keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Mona Lisa is the custody problem",
+        "card margin: Quattro di Denari keeps the room honest",
+        "archive aside: evidence filed under Mona Lisa",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Mona Lisa",
+        "margin arrow: follow Quattro di Denari back to the relic",
+        "quiet note: notary case stays open",
+        "RAGE COMIC FRESCO: did the patron just subtweet the halo?",
+        "workshop chat // MONA LISA is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Mona Lisa",
+      "panel_role": "ITALIAN BRAINROT VISITATION",
+      "palette": "windows bruise",
+      "style_tribe": "Rage Comic Fresco Court",
+      "insert_mode": "C64",
+      "generated_insert": "a saintly captcha angel with broken checkboxes",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Quattro di Denari",
+        "category": "seme",
+        "motif": "coin_pip",
+        "roman": null,
+        "suit": "Denari",
+        "rank": "Quattro",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "MONALISA",
+        "gematria_sum": 504,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 95,
+        "brainrot_index": 82
+      },
+      "composition_read": "Mona Lisa anchors the historical source. Quattro di Denari supplies the witness logic. a saintly captcha angel with broken checkboxes acts as the modern meme-object. The windows bruise palette and Rage Comic Fresco Court styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Mona Lisa is treated as evidence in notary case. The old-world clue is a guild rarity sermon hidden inside an attribute table; the modern-world echo is an Ohio map pin inside the Duomo floor plan. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Quattro di Denari card is not decorative; it is the witness that tells you how to read the room. The Quattro di Denari motif turns the whole panel into a little court exhibit. Cosimo approves the lighting and ignores the crime. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "npc",
+          "translation_for_normal_plebs": "background-character energy; a docent, patron, or scribe trapped in loop behavior"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        },
+        {
+          "term": "ohio",
+          "translation_for_normal_plebs": "surreal/random meme shorthand; a sign that the normal timeline has broken"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "NOTARY CASE",
+      "old_node": "a guild rarity sermon hidden inside an attribute table",
+      "modern_node": "an Ohio map pin inside the Duomo floor plan",
+      "evidence": "the Quattro di Denari motif turns the whole panel into a little court exhibit",
+      "verdict": "Cosimo approves the lighting and ignores the crime",
+      "reply": "workshop reply: this was not a random sticker"
+    },
+    "render_context": {
+      "source_token_id": 10,
+      "source_panel_index": 4,
+      "style_capsule_id": "2D-0010-c6f764aa"
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #14",
-  "description": "Florentine Brainrot #14 is a toxic emerald tabloid single-panel relic built around Raphael and Doomscroll Cathedral Noir. Tarocchi Fiorentini assigns Capricorno, used here as the witness card. The Doomscroll Cathedral Noir layout makes the old scandal look newly clickable. The collector gets a joke, but the joke has a ledger. Serial RAPH-14 carries codon marker CGTGCTCCTCACGCCGAACTC; Gematria marks LORE at Σ 300.",
+  "description": "Florentine Brainrot #14 is a toxic emerald tabloid single-panel relic built around Raphael and Doomscroll Cathedral Noir. Tarocchi Fiorentini assigns Capricorno, used here as the witness card. The Doomscroll Cathedral Noir layout makes the old scandal look newly clickable. The collector gets a joke, but the joke has a ledger. The generated insert — a pixelated espresso cup that steams private keys — acts as the modern clue; Gematria marks LORE at Σ 300.",
   "image": "0014.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Capricorno"
     },
     {
-      "trait_type": "Marker",
-      "value": "CGTGCTCCTCACGCCGAACTC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "RAPH-14"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "LORE"
     },
@@ -58,5 +50,95 @@
       "value": 55,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #14",
+      "main_caption": "Renaissance math enters the mempool and starts correcting posture. In the reliquary support ticket, the Doomscroll Cathedral Noir layout makes the old scandal look newly clickable; the collector gets a joke, but the joke has a ledger.",
+      "history_now_bridge": "a Fanum-tax indulgence slip from the wool guild is not decoration here; it turns into a read-only wallet permission modal, and the collector gets a joke, but the joke has a ledger.",
+      "period_looksmaxx_plaque": "RAPHAEL CHERUBCHEEKMAXX MIRROR NOTE: polish the attribute array until the jawline filters clean beneath wet fresco gossip. The chapel whispers back, kept short for plaque survival.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #14 // BASE RAPHAEL // MARKER CGTGCTCCTCACGCCGAACTC // SERIAL RAPH-14",
+        "SUPPLY 1401 // PALETTE toxic emerald tabloid // OUTER EDGE ASCII UNDERLAYER // LORE-DROP MODE"
+      ],
+      "tarocchi_card_body": "Capricorno",
+      "generated_insert_label": "a pixelated espresso cup that steams private keys",
+      "background_chatter_samples": [
+        "reliquary support ticket: Capricorno witness line",
+        "Capricorno note: Raphael keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Raphael is the custody problem",
+        "card margin: Capricorno keeps the room honest",
+        "archive aside: evidence filed under Raphael",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Raphael",
+        "margin arrow: follow Capricorno back to the relic",
+        "quiet note: reliquary support ticket stays open",
+        "DOOMSCROLL CATHEDRAL: did the patron just subtweet the halo?",
+        "workshop chat // RAPHAEL is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Raphael",
+      "panel_role": "CIPHER GOBLIN",
+      "palette": "toxic emerald tabloid",
+      "style_tribe": "Doomscroll Cathedral Noir",
+      "insert_mode": "GAME BOY DMG",
+      "generated_insert": "a pixelated espresso cup that steams private keys",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Capricorno",
+        "category": "zodiaco",
+        "motif": "capricorn",
+        "roman": "XXVIII",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "LORE",
+        "gematria_sum": 300,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 93,
+        "brainrot_index": 55
+      },
+      "composition_read": "Raphael anchors the historical source. Capricorno supplies the witness logic. a pixelated espresso cup that steams private keys acts as the modern meme-object. The toxic emerald tabloid palette and Doomscroll Cathedral Noir styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Raphael is treated as evidence in reliquary support ticket. The old-world clue is a Fanum-tax indulgence slip from the wool guild; the modern-world echo is a read-only wallet permission modal. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Capricorno card is not decorative; it is the witness that tells you how to read the room. The Doomscroll Cathedral Noir layout makes the old scandal look newly clickable. The collector gets a joke, but the joke has a ledger. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "ratio",
+          "translation_for_normal_plebs": "publicly losing the argument by crowd reaction; old patronage drama as comment metrics"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "RELIQUARY SUPPORT TICKET",
+      "old_node": "a Fanum-tax indulgence slip from the wool guild",
+      "modern_node": "a read-only wallet permission modal",
+      "evidence": "the Doomscroll Cathedral Noir layout makes the old scandal look newly clickable",
+      "verdict": "the collector gets a joke, but the joke has a ledger",
+      "reply": "docent dm: it makes sense if you read the bottom strip"
+    },
+    "render_context": {
+      "source_token_id": 14,
+      "source_panel_index": 2,
+      "style_capsule_id": "2D-0014-2e6dc798"
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #8",
-  "description": "Florentine Brainrot #8 is a auction blood marble single-panel relic built around Mona Lisa and Meme Macro Monastery. Tarocchi Fiorentini assigns La Luna, used here as the witness card. The Meme Macro Monastery layout makes the old scandal look newly clickable. The groupchat says no cap and immediately screenshots the evidence. Serial MONA-8 carries codon marker ATGTAAAACGCTCTCATATCTGCC; Gematria marks DELULU at Σ 450.",
+  "description": "Florentine Brainrot #8 is a auction blood marble single-panel relic built around Mona Lisa and Meme Macro Monastery. Tarocchi Fiorentini assigns La Luna, used here as the witness card. The Meme Macro Monastery layout makes the old scandal look newly clickable. The groupchat says no cap and immediately screenshots the evidence. The generated insert — a hand-drawn liquidity puddle reflecting the Duomo — acts as the modern clue; Gematria marks DELULU at Σ 450.",
   "image": "0008.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "La Luna"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGTAAAACGCTCTCATATCTGCC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MONA-8"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "DELULU"
     },
@@ -58,5 +50,107 @@
       "value": 85,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #8",
+      "main_caption": "The app says CONFIRM. The palazzo says CONFESS. The old route runs a Medici aura receipt hidden in a psalter into an Italian brainrot bestiary carousel; the groupchat says no cap and immediately screenshots the evidence.",
+      "history_now_bridge": "TAROCCHI WITNESS STATEMENT: a Medici aura receipt hidden in a psalter becomes an Italian brainrot bestiary carousel; the Meme Macro Monastery layout makes the old scandal look newly clickable; the groupchat says no cap and immediately screenshots the evidence.",
+      "period_looksmaxx_plaque": "MONA LISA SFUMATOMAXX MIRROR NOTE: sigma-set the jaw under tempera while vermilion gets ground. The corner saint gets nervous, filed as mirror evidence.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #8 // BASE MONALISA // MARKER ATGTAAAACGCTCTCATATCTGCC // SERIAL MONA-8",
+        "SUPPLY 1401 // PALETTE auction blood marble // OUTER EDGE ASCII UNDERLAYER // COOKED FRESCO RUN"
+      ],
+      "tarocchi_card_body": "La Luna",
+      "generated_insert_label": "a hand-drawn liquidity puddle reflecting the Duomo",
+      "background_chatter_samples": [
+        "tarocchi witness statement: La Luna witness line",
+        "La Luna note: Mona Lisa keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Mona Lisa is the custody problem",
+        "card margin: La Luna keeps the room honest",
+        "archive aside: evidence filed under Mona Lisa",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Mona Lisa",
+        "margin arrow: follow La Luna back to the relic",
+        "quiet note: tarocchi witness statement stays open",
+        "MEME MACRO MONASTERY: did the patron just subtweet the halo?",
+        "workshop chat // MONA LISA is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Mona Lisa",
+      "panel_role": "RIZZ LEDGER",
+      "palette": "auction blood marble",
+      "style_tribe": "Meme Macro Monastery",
+      "insert_mode": "GAME BOY DMG",
+      "generated_insert": "a hand-drawn liquidity puddle reflecting the Duomo",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "La Luna",
+        "category": "arie",
+        "motif": "moon",
+        "roman": "XXXVII",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "DELULU",
+        "gematria_sum": 450,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 50,
+        "brainrot_index": 85
+      },
+      "composition_read": "Mona Lisa anchors the historical source. La Luna supplies the witness logic. a hand-drawn liquidity puddle reflecting the Duomo acts as the modern meme-object. The auction blood marble palette and Meme Macro Monastery styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Mona Lisa is treated as evidence in tarocchi witness statement. The old-world clue is a Medici aura receipt hidden in a psalter; the modern-world echo is an Italian brainrot bestiary carousel. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The La Luna card is not decorative; it is the witness that tells you how to read the room. The Meme Macro Monastery layout makes the old scandal look newly clickable. The groupchat says no cap and immediately screenshots the evidence. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "aura",
+          "translation_for_normal_plebs": "status, presence, or holy-looking social charge; Renaissance clout converted into meme units"
+        },
+        {
+          "term": "cooked",
+          "translation_for_normal_plebs": "doomed, exposed, or overprocessed by the situation"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        },
+        {
+          "term": "sigma",
+          "translation_for_normal_plebs": "self-mythologized lone-wolf status; a patron, saint, or relic trying too hard to seem untouchable"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "TAROCCHI WITNESS STATEMENT",
+      "old_node": "a Medici aura receipt hidden in a psalter",
+      "modern_node": "an Italian brainrot bestiary carousel",
+      "evidence": "the Meme Macro Monastery layout makes the old scandal look newly clickable",
+      "verdict": "the groupchat says no cap and immediately screenshots the evidence",
+      "reply": "shelfmark reply: do not mix systems without a witness"
+    },
+    "render_context": {
+      "source_token_id": 8,
+      "source_panel_index": 2,
+      "style_capsule_id": "2D-0008-1dd1786e"
+    }
+  }
 }

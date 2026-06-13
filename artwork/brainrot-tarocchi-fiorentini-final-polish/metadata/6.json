@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #6",
-  "description": "Florentine Brainrot #6 is a meme macro primary single-panel relic built around Raphael and Rage Comic Fresco Court. Tarocchi Fiorentini assigns Imperatore d'Occidente, used here as the witness card. The Rage Comic Fresco Court layout makes the old scandal look newly clickable. The small evidence marks become witnesses, not gimmicks. Serial RAPH-6 carries codon marker CGTGCTCCTCACGCCGAACTC; Gematria marks SIDEQUEST at Σ 714.",
+  "description": "Florentine Brainrot #6 is a meme macro primary single-panel relic built around Raphael and Rage Comic Fresco Court. Tarocchi Fiorentini assigns Imperatore d'Occidente, used here as the witness card. The Rage Comic Fresco Court layout makes the old scandal look newly clickable. The small evidence marks become witnesses, not gimmicks. The generated insert — a saintly captcha angel with broken checkboxes — acts as the modern clue; Gematria marks SIDEQUEST at Σ 714.",
   "image": "0006.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Imperatore d'Occidente"
     },
     {
-      "trait_type": "Marker",
-      "value": "CGTGCTCCTCACGCCGAACTC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "RAPH-6"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "SIDEQUEST"
     },
@@ -58,5 +50,86 @@
       "value": 82,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #6",
+      "main_caption": "The wallet connects; the saints request read-only access. The panel reads like workshop bug report: the Rage Comic Fresco Court layout makes the old scandal look newly clickable; the small evidence marks become witnesses, not gimmicks.",
+      "history_now_bridge": "Raphael carries a side-quest altar noted in a sacristy inventory into an OpenSea trait panel with no fake rarity rank; the Rage Comic Fresco Court layout makes the old scandal look newly clickable; the small evidence marks become witnesses, not gimmicks.",
+      "period_looksmaxx_plaque": "RAPHAEL CHERUBCHEEKMAXX MIRROR NOTE: teach the sleeve to frame the wrist inside a Baconian two-ink workshop. The market forgets your pores, kept short for plaque survival.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #6 // BASE RAPHAEL // MARKER CGTGCTCCTCACGCCGAACTC // SERIAL RAPH-6",
+        "SUPPLY 1401 // PALETTE meme macro primary // OUTER EDGE ASCII UNDERLAYER // TRIPLET WITNESS"
+      ],
+      "tarocchi_card_body": "Imperatore d'Occidente",
+      "generated_insert_label": "a saintly captcha angel with broken checkboxes",
+      "background_chatter_samples": [
+        "workshop bug report: Imperatore d'Occidente witness line",
+        "Imperatore d'Occidente note: Raphael keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Raphael is the custody problem",
+        "card margin: Imperatore d'Occidente keeps the room honest",
+        "archive aside: evidence filed under Raphael",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Raphael",
+        "margin arrow: follow Imperatore d'Occidente back to the relic",
+        "quiet note: workshop bug report stays open",
+        "RAGE COMIC FRESCO: did the patron just subtweet the halo?",
+        "workshop chat // RAPHAEL is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Raphael",
+      "panel_role": "TRAIT GOBLIN",
+      "palette": "meme macro primary",
+      "style_tribe": "Rage Comic Fresco Court",
+      "insert_mode": "SNES",
+      "generated_insert": "a saintly captcha angel with broken checkboxes",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Imperatore d'Occidente",
+        "category": "papi",
+        "motif": "west_emperor",
+        "roman": "III",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "SIDEQUEST",
+        "gematria_sum": 714,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 95,
+        "brainrot_index": 82
+      },
+      "composition_read": "Raphael anchors the historical source. Imperatore d'Occidente supplies the witness logic. a saintly captcha angel with broken checkboxes acts as the modern meme-object. The meme macro primary palette and Rage Comic Fresco Court styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Raphael is treated as evidence in workshop bug report. The old-world clue is a side-quest altar noted in a sacristy inventory; the modern-world echo is an OpenSea trait panel with no fake rarity rank. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Imperatore d'Occidente card is not decorative; it is the witness that tells you how to read the room. The Rage Comic Fresco Court layout makes the old scandal look newly clickable. The small evidence marks become witnesses, not gimmicks. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": []
+    },
+    "case_file": {
+      "case": "WORKSHOP BUG REPORT",
+      "old_node": "a side-quest altar noted in a sacristy inventory",
+      "modern_node": "an OpenSea trait panel with no fake rarity rank",
+      "evidence": "the Rage Comic Fresco Court layout makes the old scandal look newly clickable",
+      "verdict": "the small evidence marks become witnesses, not gimmicks",
+      "reply": "notary reply: keep this line near the card"
+    },
+    "render_context": {
+      "source_token_id": 6,
+      "source_panel_index": 6,
+      "style_capsule_id": "2D-0006-e6295077"
+    }
+  }
 }

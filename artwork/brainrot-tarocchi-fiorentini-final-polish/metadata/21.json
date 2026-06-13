@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #21",
-  "description": "Florentine Brainrot #21 is a vapor pope single-panel relic built around Mona Lisa and Vaporwave Medici Mall. Tarocchi Fiorentini assigns Amore, used here as the witness card. The source relic, the card, and the caption all accuse the same room. Cosimo approves the lighting and ignores the crime. Serial MONA-21 carries codon marker ATGTAAAACGCTCTCATATCTGCC; Gematria marks NOCAP at Σ 294.",
+  "description": "Florentine Brainrot #21 is a vapor pope single-panel relic built around Mona Lisa and Vaporwave Medici Mall. Tarocchi Fiorentini assigns Amore, used here as the witness card. The source relic, the card, and the caption all accuse the same room. Cosimo approves the lighting and ignores the crime. The generated insert — a low-res dove dropping governance ballots — acts as the modern clue; Gematria marks NOCAP at Σ 294.",
   "image": "0021.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Amore"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGTAAAACGCTCTCATATCTGCC"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MONA-21"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "NOCAP"
     },
@@ -62,5 +54,103 @@
       "value": 74,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #21",
+      "main_caption": "A null field becomes weather. The weather becomes policy. The old route runs a wool-guild oath ledger with patron fingerprints into a codon decoder sticker on a cold wallet; Cosimo approves the lighting and ignores the crime.",
+      "history_now_bridge": "MEDICI RECEIPT DRAMA: a wool-guild oath ledger with patron fingerprints becomes a codon decoder sticker on a cold wallet; the source relic, the card, and the caption all accuse the same room; Cosimo approves the lighting and ignores the crime.",
+      "period_looksmaxx_plaque": "MONA LISA SFUMATOMAXX MIRROR NOTE: pinch cheeks with a reliquary key during an Alberti wheel face-reading. The fresco slaps without consent, certified by the frame maker.",
+      "qr_payload_if_drawn": "AURA RECEIPT #21: the source relic, the card, and the caption all accuse the same room. Keep the copy.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #21 // BASE MONALISA // MARKER ATGTAAAACGCTCTCATATCTGCC // SERIAL MONA-21",
+        "SUPPLY 1401 // PALETTE vapor pope // OUTER EDGE ASCII UNDERLAYER // GOATED CHAPEL RUN"
+      ],
+      "tarocchi_card_body": "Amore",
+      "generated_insert_label": "a low-res dove dropping governance ballots",
+      "background_chatter_samples": [
+        "medici receipt drama: Amore witness line",
+        "Amore note: Mona Lisa keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Mona Lisa is the custody problem",
+        "card margin: Amore keeps the room honest",
+        "archive aside: evidence filed under Mona Lisa",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Mona Lisa",
+        "margin arrow: follow Amore back to the relic",
+        "quiet note: medici receipt drama stays open",
+        "VAPORWAVE MEDICI MALL: did the patron just subtweet the halo?",
+        "workshop chat // MONA LISA is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Mona Lisa",
+      "panel_role": "TOUCH GRASS DECREE",
+      "palette": "vapor pope",
+      "style_tribe": "Vaporwave Medici Mall",
+      "insert_mode": "PICO-8",
+      "generated_insert": "a low-res dove dropping governance ballots",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Amore",
+        "category": "trionfo",
+        "motif": "love",
+        "roman": "V",
+        "suit": null,
+        "rank": null,
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "NOCAP",
+        "gematria_sum": 294,
+        "oracle": "Visible",
+        "chaos_dial": 93,
+        "brainrot_index": 74
+      },
+      "composition_read": "Mona Lisa anchors the historical source. Amore supplies the witness logic. a low-res dove dropping governance ballots acts as the modern meme-object. The vapor pope palette and Vaporwave Medici Mall styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Mona Lisa is treated as evidence in medici receipt drama. The old-world clue is a wool-guild oath ledger with patron fingerprints; the modern-world echo is a codon decoder sticker on a cold wallet. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Amore card is not decorative; it is the witness that tells you how to read the room. The source relic, the card, and the caption all accuse the same room. Cosimo approves the lighting and ignores the crime. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "aura",
+          "translation_for_normal_plebs": "status, presence, or holy-looking social charge; Renaissance clout converted into meme units"
+        },
+        {
+          "term": "goated",
+          "translation_for_normal_plebs": "treated as the greatest of all time, sometimes for stupid reasons"
+        },
+        {
+          "term": "opp",
+          "translation_for_normal_plebs": "opponent or enemy; in this world a rival guild, collector, or saintly antagonist"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "MEDICI RECEIPT DRAMA",
+      "old_node": "a wool-guild oath ledger with patron fingerprints",
+      "modern_node": "a codon decoder sticker on a cold wallet",
+      "evidence": "the source relic, the card, and the caption all accuse the same room",
+      "verdict": "Cosimo approves the lighting and ignores the crime",
+      "reply": "margin reply: same case, different halo"
+    },
+    "render_context": {
+      "source_token_id": 21,
+      "source_panel_index": 3,
+      "style_capsule_id": "2D-0021-e7649a80"
+    }
+  }
 }

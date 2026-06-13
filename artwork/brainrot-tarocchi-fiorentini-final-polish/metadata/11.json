@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #11",
-  "description": "Florentine Brainrot #11 is a toxic emerald tabloid single-panel relic built around Botticelli and Windows 95 Treasury Panic. Tarocchi Fiorentini assigns Asso di Denari, used here as the witness card. Botticelli left a receipt where the Burn Address Pilgrimage should have been. The groupchat says no cap and immediately screenshots the evidence. Serial BOTT-11 carries codon marker GATTAAACTACCATATGTGAACTCCTAATT; Gematria marks SIGMA at Σ 294.",
+  "description": "Florentine Brainrot #11 is a toxic emerald tabloid single-panel relic built around Botticelli and Windows 95 Treasury Panic. Tarocchi Fiorentini assigns Asso di Denari, used here as the witness card. Botticelli left a receipt where the Burn Address Pilgrimage should have been. The groupchat says no cap and immediately screenshots the evidence. The generated insert — a cartoon oracle vending machine dispensing bad alpha — acts as the modern clue; Gematria marks SIGMA at Σ 294.",
   "image": "0011.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Asso di Denari"
     },
     {
-      "trait_type": "Marker",
-      "value": "GATTAAACTACCATATGTGAACTCCTAATT"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "BOTT-11"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "SIGMA"
     },
@@ -62,5 +54,99 @@
       "value": 60,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #11",
+      "main_caption": "The keynote ends when Botticelli asks for proof, not vibes. The old route runs an English Gematria word-value table on vellum into a notification badge stuck at 1401; the groupchat says no cap and immediately screenshots the evidence.",
+      "history_now_bridge": "Asso di Denari file: Botticelli left a receipt where the Burn Address Pilgrimage should have been; modern echo: a notification badge stuck at 1401; the groupchat says no cap and immediately screenshots the evidence.",
+      "period_looksmaxx_plaque": "BOTTICELLI VENUSMAXX MIRROR NOTE: coin-chill the under-eyes inside jealous workshop elbows. The halo stops freelancing, witnessed by the candle smoke.",
+      "qr_payload_if_drawn": "AURA RECEIPT #11: Botticelli left a receipt where the Burn Address Pilgrimage should have been. Keep the copy.",
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #11 // BASE BOTTICELLI // MARKER GATTAAACTACCATATGTGAACTCCTAATT // SERIAL BOTT-11",
+        "SUPPLY 1401 // PALETTE toxic emerald tabloid // OUTER EDGE ASCII UNDERLAYER // FLORENCEPOSTING"
+      ],
+      "tarocchi_card_body": "Asso di Denari",
+      "generated_insert_label": "a cartoon oracle vending machine dispensing bad alpha",
+      "background_chatter_samples": [
+        "laurenziana incident: Asso di Denari witness line",
+        "Asso di Denari note: Botticelli keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Botticelli is the custody problem",
+        "card margin: Asso di Denari keeps the room honest",
+        "archive aside: evidence filed under Botticelli",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Botticelli",
+        "margin arrow: follow Asso di Denari back to the relic",
+        "quiet note: laurenziana incident stays open",
+        "WINDOWS 95 TREASURY: did the patron just subtweet the halo?",
+        "workshop chat // BOTTICELLI is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Botticelli",
+      "panel_role": "WHAT THE SIGMA",
+      "palette": "toxic emerald tabloid",
+      "style_tribe": "Windows 95 Treasury Panic",
+      "insert_mode": "ARCADE",
+      "generated_insert": "a cartoon oracle vending machine dispensing bad alpha",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Asso di Denari",
+        "category": "seme",
+        "motif": "coin_ace",
+        "roman": null,
+        "suit": "Denari",
+        "rank": "Asso",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "SIGMA",
+        "gematria_sum": 294,
+        "oracle": "Visible",
+        "chaos_dial": 100,
+        "brainrot_index": 60
+      },
+      "composition_read": "Botticelli anchors the historical source. Asso di Denari supplies the witness logic. a cartoon oracle vending machine dispensing bad alpha acts as the modern meme-object. The toxic emerald tabloid palette and Windows 95 Treasury Panic styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Botticelli is treated as evidence in laurenziana incident. The old-world clue is an English Gematria word-value table on vellum; the modern-world echo is a notification badge stuck at 1401. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Asso di Denari card is not decorative; it is the witness that tells you how to read the room. Botticelli left a receipt where the Burn Address Pilgrimage should have been. The groupchat says no cap and immediately screenshots the evidence. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "ate",
+          "translation_for_normal_plebs": "did it perfectly; in this collection a fresco, saint, or relic can 'eat' like a viral post"
+        },
+        {
+          "term": "aura",
+          "translation_for_normal_plebs": "status, presence, or holy-looking social charge; Renaissance clout converted into meme units"
+        },
+        {
+          "term": "no cap",
+          "translation_for_normal_plebs": "not lying; used like a sworn notarial statement in cursed slang form"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "LAURENZIANA INCIDENT",
+      "old_node": "an English Gematria word-value table on vellum",
+      "modern_node": "a notification badge stuck at 1401",
+      "evidence": "Botticelli left a receipt where the Burn Address Pilgrimage should have been",
+      "verdict": "the groupchat says no cap and immediately screenshots the evidence",
+      "reply": "groupchat correction: the saint is not the punchline, the custody is"
+    },
+    "render_context": {
+      "source_token_id": 11,
+      "source_panel_index": 5,
+      "style_capsule_id": "2D-0011-593d9408"
+    }
+  }
 }

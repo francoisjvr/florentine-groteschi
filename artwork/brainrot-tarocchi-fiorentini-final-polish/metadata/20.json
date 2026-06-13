@@ -1,6 +1,6 @@
 {
   "name": "FLORENTINE BRAINROT #20",
-  "description": "Florentine Brainrot #20 is a glitch candy rot single-panel relic built around Michelangelo and Degen Forum Relic Board. Tarocchi Fiorentini assigns Due di Coppe, used here as the witness card. The Due di Coppe omen matches a stain in the museum security office after midnight. The guild refuses to explain why the halo has admin rights. Serial MICH-20 carries codon marker ATGATATGTCACGAACTCGCTAACGGAGAGCTATAA; Gematria marks DUOMO at Σ 408.",
+  "description": "Florentine Brainrot #20 is a glitch candy rot single-panel relic built around Michelangelo and Degen Forum Relic Board. Tarocchi Fiorentini assigns Due di Coppe, used here as the witness card. The Due di Coppe omen matches a stain in the museum security office after midnight. The guild refuses to explain why the halo has admin rights. The generated insert — a low-res dove dropping governance ballots — acts as the modern clue; Gematria marks DUOMO at Σ 408.",
   "image": "0020.png",
   "attributes": [
     {
@@ -32,14 +32,6 @@
       "value": "Due di Coppe"
     },
     {
-      "trait_type": "Marker",
-      "value": "ATGATATGTCACGAACTCGCTAACGGAGAGCTATAA"
-    },
-    {
-      "trait_type": "Serial",
-      "value": "MICH-20"
-    },
-    {
       "trait_type": "Gematria Word",
       "value": "DUOMO"
     },
@@ -58,5 +50,107 @@
       "value": 75,
       "display_type": "number"
     }
-  ]
+  ],
+  "florentine_brainrot": {
+    "schema": "florentine_brainrot.collector_data.v1",
+    "collector_note": "Custom top-level lore data: not an OpenSea trait list, but intentionally readable in the raw token JSON.",
+    "visible_text": {
+      "title": "FLORENTINE BRAINROT #20",
+      "main_caption": "Glitch is the cube's way of filing a complaint. Michelangelo is not random dressing here: the Due di Coppe omen matches a stain in the museum security office after midnight, so the guild refuses to explain why the halo has admin rights.",
+      "history_now_bridge": "a corecore chapel chant in broken notation is not decoration here; it turns into a rarity dashboard fed only by actual trait values, and the guild refuses to explain why the halo has admin rights.",
+      "period_looksmaxx_plaque": "MICHELANGELO MARBLEMAXX MIRROR NOTE: ask a pigeon to audit symmetry while the notary writes what the sigma. The chapel whispers back, witnessed by the candle smoke.",
+      "qr_payload_if_drawn": null,
+      "bottom_provenance_strip": [
+        "FLORENTINE BRAINROT #20 // BASE MICHELANGELO // MARKER ATGATATGTCACGAACTCGCTAACGGAGAGCTATAA // SERIAL MICH-20",
+        "SUPPLY 1401 // PALETTE glitch candy rot // OUTER EDGE ASCII UNDERLAYER // BACON RIBBON"
+      ],
+      "tarocchi_card_body": "Due di Coppe",
+      "generated_insert_label": "a low-res dove dropping governance ballots",
+      "background_chatter_samples": [
+        "reliquary support ticket: Due di Coppe witness line",
+        "Due di Coppe note: Michelangelo keeps the receipt",
+        "notary thread: relic, card, verdict",
+        "witness reply: Michelangelo is the custody problem",
+        "card margin: Due di Coppe keeps the room honest",
+        "archive aside: evidence filed under Michelangelo",
+        "small correction: the joke still needs a ledger",
+        "guild whisper: same case, smaller handwriting",
+        "desk note: old stain, new interface",
+        "shelfmark: never neutral",
+        "caption draft: witness first, punchline second",
+        "reply chain: source, card, caption, verdict",
+        "case clerk: do not mix systems without a witness",
+        "patron chat: the receipt matches Michelangelo",
+        "margin arrow: follow Due di Coppe back to the relic",
+        "quiet note: reliquary support ticket stays open",
+        "DEGEN FORUM RELIC: did the patron just subtweet the halo?",
+        "workshop chat // MICHELANGELO is pretending this was planned"
+      ]
+    },
+    "artwork_breakdown": {
+      "source_base": "Michelangelo",
+      "panel_role": "TRAIT DISTORTION / OHIO",
+      "palette": "glitch candy rot",
+      "style_tribe": "Degen Forum Relic Board",
+      "insert_mode": "GAME BOY DMG",
+      "generated_insert": "a low-res dove dropping governance ballots",
+      "tarocchi_fiorentini": {
+        "deck": "Tarocchi Fiorentini / Minchiate, 97 cards",
+        "italian_name": "Due di Coppe",
+        "category": "seme",
+        "motif": "cup_pip",
+        "roman": null,
+        "suit": "Coppe",
+        "rank": "Due",
+        "allocation_rule": "14 complete 97-card sets across 1,401 tokens, plus 43 deterministic extras"
+      },
+      "symbolic_layers": {
+        "gematria_word": "DUOMO",
+        "gematria_sum": 408,
+        "oracle": "Not drawn on this panel",
+        "chaos_dial": 90,
+        "brainrot_index": 75
+      },
+      "composition_read": "Michelangelo anchors the historical source. Due di Coppe supplies the witness logic. a low-res dove dropping governance ballots acts as the modern meme-object. The glitch candy rot palette and Degen Forum Relic Board styling make the panel read like a corrupted Renaissance case file."
+    },
+    "brainrot_explanation": {
+      "plain_english": "Read plainly: Michelangelo is treated as evidence in reliquary support ticket. The old-world clue is a corecore chapel chant in broken notation; the modern-world echo is a rarity dashboard fed only by actual trait values. The joke is that Renaissance patronage, holy paperwork, and today's marketplace/status feed are the same machine wearing different costumes.",
+      "read_between_the_lines": "The Due di Coppe card is not decorative; it is the witness that tells you how to read the room. The Due di Coppe omen matches a stain in the museum security office after midnight. The guild refuses to explain why the halo has admin rights. The slang is a translation layer: sacred authority becomes aura, patronage becomes Fanum-tax economics, and marginalia becomes groupchat evidence.",
+      "slang_for_normal_plebs": [
+        {
+          "term": "mid",
+          "translation_for_normal_plebs": "ordinary or disappointing, especially when the crowd expected revelation"
+        },
+        {
+          "term": "opp",
+          "translation_for_normal_plebs": "opponent or enemy; in this world a rival guild, collector, or saintly antagonist"
+        },
+        {
+          "term": "ratio",
+          "translation_for_normal_plebs": "publicly losing the argument by crowd reaction; old patronage drama as comment metrics"
+        },
+        {
+          "term": "sigma",
+          "translation_for_normal_plebs": "self-mythologized lone-wolf status; a patron, saint, or relic trying too hard to seem untouchable"
+        },
+        {
+          "term": "what the sigma",
+          "translation_for_normal_plebs": "confused disbelief in brainrot dialect; a marginalia scream when the symbols overperform"
+        }
+      ]
+    },
+    "case_file": {
+      "case": "RELIQUARY SUPPORT TICKET",
+      "old_node": "a corecore chapel chant in broken notation",
+      "modern_node": "a rarity dashboard fed only by actual trait values",
+      "evidence": "the Due di Coppe omen matches a stain in the museum security office after midnight",
+      "verdict": "the guild refuses to explain why the halo has admin rights",
+      "reply": "Ficino margin: the funny line still has to mean something"
+    },
+    "render_context": {
+      "source_token_id": 20,
+      "source_panel_index": 2,
+      "style_capsule_id": "2D-0020-14b9f27f"
+    }
+  }
 }
