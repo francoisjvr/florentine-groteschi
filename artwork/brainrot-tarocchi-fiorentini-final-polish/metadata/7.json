@@ -146,7 +146,16 @@
     "render_context": {
       "source_token_id": 7,
       "source_panel_index": 1,
-      "style_capsule_id": "2D-0007-38e98e3b"
+      "style_capsule_id": "2D-0007-38e98e3b",
+      "logical_canvas_size": [
+        1800,
+        1800
+      ],
+      "export_image_size": [
+        3072,
+        3072
+      ],
+      "resolution_basis": "3072px = six Medici palle × 512px each"
     }
   }
 }

@@ -4,6 +4,9 @@
   "cube_project_status": "on_hold",
   "supply_target": 1401,
   "source_records": 1401,
+  "logical_canvas_size": 1800,
+  "output_image_size": 3072,
+  "resolution_rule": "3072px = six Medici palle × 512px each",
   "tarocchi_deck_card_count": 97,
   "tarocchi_complete_sets": 14,
   "tarocchi_extra_cards": 43,
@@ -562,5 +565,5 @@
   "contact_sheet": "renders\\brainrot-tarocchi-fiorentini-final-polish\\batch-24-contact-sheet.png",
   "zip": "C:\\Users\\Francois\\HermesWorkspace\\comic\\florentine-2d-collection\\renders\\brainrot-tarocchi-fiorentini-final-polish.zip",
   "rendered_count": 24,
-  "elapsed_seconds": 4.05
+  "elapsed_seconds": 127.93
 }
