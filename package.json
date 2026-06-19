@@ -10,7 +10,11 @@
   "scripts": {
     "test": "hardhat test",
     "compile": "hardhat compile",
-    "clean": "hardhat clean"
+    "clean": "hardhat clean",
+    "agent:setup-privy": "node agents/burn-agent/src/setup-privy-wallet.js",
+    "agent:burn": "node agents/burn-agent/src/index.js burn",
+    "agent:dry-run": "node agents/burn-agent/src/index.js burn --dry-run",
+    "agent:daemon": "node agents/burn-agent/src/index.js daemon"
   },
   "keywords": [
     "erc721",

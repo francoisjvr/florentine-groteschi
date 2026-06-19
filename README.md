@@ -15,6 +15,7 @@ OpenSea SeaDrop-compatible ERC721 contract repo for **Florentine Brainrot**.
 - `artwork/florentine-brainrot-final-polish-preview.zip` — zipped copy of the same current preview batch.
 - `test/FlorentineBrainrot.test.js` — SeaDrop compatibility, URI, supply, and burn tests.
 - `docs/audit.md` — audit notes for the current contract.
+- `agents/burn-agent/` — Privy-wallet burn agent scaffold with dry-run, queue daemon, audit logs, and X/Twitter burn announcements.
 
 ## Contract defaults
 
@@ -36,6 +37,8 @@ npm install
 npm test
 npm run compile
 ```
+
+Burn agent setup and dry-runs are documented in `agents/burn-agent/README.md`.
 
 ## Deployment
 

@@ -1,0 +1,24 @@
+[Unit]
+Description=Florentine Brainrot Privy burn agent
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/florentine-brainrot
+Environment=NODE_ENV=production
+ExecStart=/usr/bin/npm run agent:daemon
+Restart=always
+RestartSec=15
+User=florentine-agent
+Group=florentine-agent
+
+# Basic hardening. Loosen only if your VPS path layout needs it.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/opt/florentine-brainrot/agents/burn-agent/logs /opt/florentine-brainrot/agents/burn-agent/state /opt/florentine-brainrot/agents/burn-agent/queue.json
+
+[Install]
+WantedBy=multi-user.target

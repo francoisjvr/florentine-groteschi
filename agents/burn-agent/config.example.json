@@ -1,0 +1,20 @@
+{
+  "chainId": 1,
+  "caip2": "eip155:1",
+  "contractAddress": "0x0000000000000000000000000000000000000000",
+  "collectionName": "Florentine Brainrot",
+  "collectionSlug": "florentine-brainrot",
+  "dryRun": true,
+  "waitForReceipt": true,
+  "pollSeconds": 60,
+  "queueFile": "agents/burn-agent/queue.json",
+  "logFile": "agents/burn-agent/logs/burn-agent.jsonl",
+  "twitter": {
+    "dryRun": true,
+    "announceBefore": true,
+    "announceAfter": true
+  },
+  "privy": {
+    "sponsorGas": false
+  }
+}

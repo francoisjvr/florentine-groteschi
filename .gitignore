@@ -8,6 +8,12 @@ coverage.json
 .env.*
 !.env.example
 deployment.json
+agents/burn-agent/.env
+agents/burn-agent/config.json
+agents/burn-agent/privy-wallet.local.json
+agents/burn-agent/queue.json
+agents/burn-agent/logs/
+agents/burn-agent/state/
 .DS_Store
 npm-debug.log*
 yarn-debug.log*
